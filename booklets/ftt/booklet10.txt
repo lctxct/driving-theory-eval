@@ -1,0 +1,300 @@
+FTT_E_P10_Q01: You intend to move out from a road side parking lot. Just before moving out, you should
+[ ] Sound the horn.
+[x] Lookout for motorcyclists passing you.
+[ ] Change down to first gear.
+
+
+FTT_E_P10_Q02: You see a pedestrian with a white walking stick. This means that the person is
+[ ] Physically disabled.
+[x] Blind only.
+[ ] Deaf only.
+
+
+FTT_E_P10_Q03: You should use the right foot to contro! the
+[ ] Clutch and rear brake.
+[x] Foot-brake and accelerator.
+[ ] Gear lever and accelerator.
+
+
+FTT_E_P10_Q04: You should wear suitable shoes when driving to
+[ ] Prevent wear of the pedal.
+[x] Maintain control of the pedal.
+[ ] Enable you to adjust your seat.
+
+
+FTT_E_P10_Q05: Your overall stopping distance will be longer when driving
+[x] In the rain.
+[ ] At night.
+[ ] In strong wind.
+
+
+FTT_E_P10_Q06: Your vehicle pulls to one side when braking, you should
+[ ] Change the tyres around.
+[ ] Pump the pedal when braking.
+[x] Consult your mechanic as soon as possible.
+
+
+FTT_E_P10_Q07: You can drive on the bus lane
+[ ] When ail other lanes are occupied.
+[x] Outside the restricted hours.
+[ ] When passing another vehicle on the left.
+
+
+FTT_E_P10_Q08: Which road user has caused a hazard?
+[x] The parked car (A)
+[ ] The pedestrian walking along the road (B)
+[ ] The movino car(C)
+
+
+FTT_E_P10_Q09: Which of these can affect your reaction time?
+[x] Drugs.
+[ ] Contact lenses.
+[ ] Tinted windows.
+
+
+FTT_E_P10_Q10: The 'Two second rule’ is used in normal driving situation at
+[ ] Certain speed only.
+[x] All speed.
+[ ] Fixed speed only.
+
+
+FTT_E_P10_Q11: A new driver caught not displaying the ‘Probation Plate’ twice would
+[ ] Have to pay fine.
+[x] Have his licence be revoked.
+[ ] Be suspended for 6 months.
+
+
+FTT_E_P10_Q12: You are not allowed to book for a driving test, if you have accumulated
+[ ] 11 demerit points.
+[ ] 12 demerit points.
+[x] 13 demerit points.
+
+
+FTT_E_P10_Q13: While driving and you hear the siren of an ambulance behind you, you should
+[ ] Stop immediately to let the ambulance overtake or pass.
+[x] Keep left, slow down and stop if necessary.
+[ ] Speed up in order not to obstruct the ambulance.
+
+
+FTT_E_P10_Q14: When someone follow closely behind you, he is telling you to
+[ ] Drive faster.
+[x] Move over and let him pass.
+[ ] Race with him.
+
+
+FTT_E_P10_Q15: When driving in heavy rain and passing through water, you should gently test your
+[ ] Horn.
+[x] Brakes from time to time.
+[ ] Signals.
+
+
+FTT_E_P10_Q16: When starting the engine (automatic), the gear selector should be in
+[x] Park (P) or Neutral (N) position.
+[ ] Reverse (R) position.
+[ ] Drive (D) position.
+
+
+FTT_E_P10_Q17: Who is prohibited to drive on the expressway?
+[ ] Motorcycle riders on probation.
+[x] Motorcycle riders with side-cars.
+[ ] Motorcar probationary driving licence holders.
+
+
+FTT_E_P10_Q18: Your vehicle has a puncture on the expressway. What should you do?
+[ ] Drive slowly to the workshop.
+[x] Pull up on the road shoulder.
+[ ] Stop in your lane and switch on the hazard lights.
+
+
+FTT_E_P10_Q19: You are driving on a three-lane carriageway at 80 km/h . There is no traffic ahead. Which lane should you use?
+[ ] Any lane.
+[ ] Middle lane.
+[x] Left lane.
+
+
+FTT_E_P10_Q20: You need more braking effort when stopping your vehicle in
+[ ] 2nd gear.
+[ ] 3rd gear.
+[x] 4th gear.
+
+
+FTT_E_P10_Q21: You should use ‘engine brake’ to assist you when
+[ ] Travelling long distances.
+[x] Travelling down a steep slope.
+[ ] You want to save fuel.
+
+
+FTT_E_P10_Q22: When changing gear, the clutch pedal should be depress
+[ ] Slowly and released quickly after the change.
+[ ] Quickly and released quickly after the change.
+[x] Quickly and released slowly after the change.
+
+
+FTT_E_P10_Q23: When stopping the vehicle, the engine will stall if
+[ ] The clutch pedal is depressed too early.
+[x] The clutch pedal is depressed too late.
+[ ] The brake pedal is over released.
+
+
+FTT_E_P10_Q24: When you approach a bend, you should slow down
+[ ] As you drive round the bend.
+[ ] As you leave the bend.
+[x] Before you enter the bend.
+
+
+FTT_E_P10_Q25: When the engine stalls while moving off on a slope, you should immediately
+[ ] Reach for the ignition key and restart the engine.
+[x] Step on the brake pedal.
+[ ] Shift gear lever to neutral position.
+
+
+FTT_E_P10_Q26: When you have moved to the right hand side of the road to overtake another vehicle, you should
+[ ] Maintain your normal speed and overtake as usual.
+[x] Accelerate and overtake as quickly as possible.
+[ ] Decelerate and change to a higher gear.
+
+
+FTT_E_P10_Q27: While overtaking another vehicle, the vehicle suddenly goes faster, you should
+[ ] Accelerate hard to overtake quickly.
+[x] Slow down and move safely back to your lane.
+[ ] Sound the horn continuously to warn the other driver.
+
+
+FTT_E_P10_Q28: You are about to reverse into a side road. A pedestrian wishes to cross behind you. You should
+[ ] Reverse before the pedestrian starts to cross.
+[x] Give way to the pedestrian.
+[ ] Wave to the pedestrian to stop.
+
+
+FTT_E_P10_Q29: You are reversing your vehicle into a side road. When would the greatest hazard be to the passing traffic?
+[ ] After you have entered the side road.
+[x] When the front of your vehicle swings out.
+[ ] After you have completed the manoeuvre.
+
+
+FTT_E_P10_Q30: When your rear tyre punctures while driving, you should
+[ ] Step hard on the brake immediately.
+[x] Grip the steering wheel to keep control, apply brake gradually and stop by the side of the road.
+[ ] Apply both brakes quickly and switch off the engine.
+
+
+FTT_E_P10_Q31: Worn out tyres and improper air pressure are other factors that
+[ ] Reduce the force of impact.
+[x] Reduce the frictional force.
+[ ] Increase the effect of braking.
+
+
+FTT_E_P10_Q32: When negotiating a sharp bend which natural force tends to push your vehicle outwards?
+[ ] Gravitational force.
+[ ] Frictional force.
+[x] Centrifugal force.
+
+
+FTT_E_P10_Q33: You need a longer distance to stop your vehicle when driving
+[ ] On a dry road.
+[x] On a wet road.
+[ ] On a hard and dry ground.
+
+
+FTT_E_P10_Q34: When neutral gear is engaged while driving
+[ ] The vehicle will negotiate a bend smoothly.
+[ ] It makes control easier at high speed.
+[x] It is very difficult to control the vehicle.
+
+
+FTT_E_P10_Q35: When you want to stop your car, you should
+[x] Check the rear and side mirrors, signal and then stop.
+[ ] Signal first and then stop.
+[ ] Stop and check the rear and side mirrors.
+
+
+FTT_E_P10_Q36: You should dip your headlights when
+[ ] Driving in a dark area.
+[x] Facing oncoming traffic.
+[ ] Approaching a blind corner.
+
+
+FTT_E_P10_Q37: You see two elderly pedestrians about to cross the road ahead, you should
+[ ] Expect them to wait for you to pass.
+[ ] Speed up to pass them quickly.
+[x] Be careful, they may misjudge your speed.
+
+
+FTT_E_P10_Q38: When you approach this traffic light junction, you should
+[x] Slow down and be ready to stop when the light changes.
+[ ] Speed up to pass the junction before the light changes.
+[ ] Maintain a high speed so as not to disrupt the traffic flow.
+
+
+FTT_E_P10_Q39: You are driving towards a zebra crossing. Pedestrians are waiting to cross, you should
+[ ] Continue on your way.
+[x] Be prepared to stop.
+[ ] Wave to the people to wait.
+
+
+FTT_E_P10_Q40: You are following a lorry approaching a 'U' turn sign. The driver signals right but moves to the left, you should
+[x] Wait behind the lorry.
+[ ] Overtake on the left-hand side.
+[ ] Overtake on the right-hand side.
+
+
+FTT_E_P10_Q41: You are permitted to use the outer most right lane on a three-lane dual carriageway when
+[ ] You are travelling at the maximum legal speed limit of the road.
+[x] You intend to turn right ahead.
+[ ] Emergency vehicles are not using it.
+
+
+FTT_E_P10_Q42: When the temperature gauge on your vehicle indicates ‘hot'. What is the cause?
+[ ] The exhaust pipe is getting too hot.
+[x] The engine is heating up.
+[ ] The air conditioning is not working properly.
+
+
+FTT_E_P10_Q43: While driving, and your engine gets overheated, you should
+[ ] Pour water to cool down the engine.
+[x] Slow down and stop at a safe spot to let the engine cool down by itself.
+[ ] Drive to the nearest petrol kiosk for repairs.
+
+
+FTT_E_P10_Q44: You are driving in very wet weather. Your vehicle begins to slide. This effect is called
+[ ] Weaving.
+[ ] Fading.
+[x] Aquaplaning.
+
+
+FTT_E_P10_Q45: You are travelling at the legal speed limit. A vehicle comes up quickly behind, flashing its headlights. You should
+[ ] Maintain your speed to prevent the vehicle from overtaking.
+[x] Allow the vehicle to overtake.
+[ ] Touch the brakes sharply to show your brake lights.
+
+
+FTT_E_P10_Q46: What should you use the road shoulder of an expressway for?
+[ ] Leaving the expressway.
+[ ] Joining the expressway.
+[x] Stopping in an emergency.
+
+
+FTT_E_P10_Q47: You intend to turn left and there is a cyclist ahead on the left, you should
+[x] Slow down and allow the cyclist to pass the junction.
+[ ] Drive faster to avoid the cyclist.
+[ ] Horn to warn him you are turning left.
+
+
+FTT_E_P10_Q48: You should never attempt to overtake a cyclist
+[x] Just before you turn left.
+[ ] Just before you turn right.
+[ ] On a one-way street.
+
+
+FTT_E_P10_Q49: You should use your right hand indicator when
+[ ] You intend to slow down.
+[ ] You are about to stop.
+[x] You intend to move to the right at any time.
+
+
+FTT_E_P10_Q50: You should check your mirrors before
+[ ] Moving off, slowing down and stopping.
+[ ] Changing lane, overtaking, turning and every 5 to 10 seconds.
+[x] Both A and B.
+
+

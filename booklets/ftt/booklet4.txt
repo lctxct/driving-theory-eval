@@ -1,0 +1,300 @@
+FTT_E_P4_Q01: There is a slow moving motorcyclist ahead of you. You are not sure what the rider is going to do, you should
+[ ] Pass on the left.
+[ ] Pass on the right.
+[x] Stay behind.
+
+
+FTT_E_P4_Q02: Head-on collisions can actually happen at
+[x] Any place.
+[ ] Straight road only.
+[ ] Junctions and on bends only.
+
+
+FTT_E_P4_Q03: How does a school warden signals you to stop?
+[x] By displaying a stop sign.
+[ ] By giving you a hand signal.
+[ ] By pointing to children on the opposition pavement.
+
+
+FTT_E_P4_Q04: If you cannot steer straight because the road surface is not even, you should
+[ ] Loosen your grip on the steering wheel.
+[ ] Increase speed.
+[x] Rduce speed.
+
+
+FTT_E_P4_Q05: The main cause of brake fade is
+[x] The brakes overheating.
+[ ] Air in the brake fluid.
+[ ] The brakes out of adjustment.
+
+
+FTT_E_P4_Q06: Accident with vehicle from the side can happen at
+[ ] Straight road and bends only.
+[ ] Car park and roundabout only.
+[x] Intersection, roundabout, where two roads merge and car park exists.
+
+
+FTT_E_P4_Q07: In a car equipped with rear seat belt, a child under 8 years old in the rear seat should
+[ ] Sit between adult passengers.
+[ ] Have a soft cushion behind him/her.
+[x] Use a child restraint.
+
+
+FTT_E_P4_Q08: Car A intends to pass a lorry B. Car A should
+[x] Pass the lorry B after the junction.
+[ ] Speed up to pass lorry B on the left.
+[ ] Pass the lorry B on the right
+
+
+FTT_E_P4_Q09: Car A is about to make a U-turn, Car A should
+[x] Give to car B.
+[ ] Not give way to car B.
+[ ] Turn alono with carB
+
+
+FTT_E_P4_Q10: After consuming alcohol, you should
+[x] Not drive.
+[ ] Drive slowly.
+[ ] Drive at normal speed.
+
+
+FTT_E_P4_Q11: When you are following another vehicle on a wet road, you should keep
+[ ] 2 seconds behind.
+[x] More than 2 seconds behind.
+[ ] Less than 2 seconds behind.
+
+
+FTT_E_P4_Q12: A driver will have to sit and pass the driving test again if he is suspended from driving for
+[ ] 6 months.
+[ ] 8 months.
+[x] 12 months.
+
+
+FTT_E_P4_Q13: If your driving licence is revoked, you may apply again for a licence after a period of
+[x] 1 year.
+[ ] 2 years.
+[ ] 3 years.
+
+
+FTT_E_P4_Q14: When an emergency vehicle behind you sounds its siren, you should
+[ ] Slow down quickly.
+[x] Pull to the side and stop if necessary.
+[ ] Increase your speed.
+
+
+FTT_E_P4_Q15: When pedestrians are facing away from traffic, vehicles should keep a gap of at least
+[ ] 0.5 metre from the pedestrians.
+[ ] 1 meter from the pedestrians.
+[x] 1.5 metres from pedestrians.
+
+
+FTT_E_P4_Q16: How should you deal with floods?
+[ ] Drive through as fast as possible to avoid stopping.
+[x] Drive through slowly in 1st gear.
+[ ] Drive through in the highest gear.
+
+
+FTT_E_P4_Q17: Automatic cars have a device called a kickdown. Its function is to
+[ ] Select a higher gear.
+[ ] Select a lower gear manually.
+[x] Provide quick accelerations when needed.
+
+
+FTT_E_P4_Q18: On the expressway, what kind of drivers pose a serious hazard ?
+[ ] Drivers who maintain a constant speed of 90 km/h.
+[ ] Pick-up and van drivers.
+[x] Drivers who hog the centre lane at 40 km/h and slower.
+
+
+FTT_E_P4_Q19: On a two-lane carriageway, you should
+[x] Keep to the left lane.
+[ ] Keep to the outer lane.
+[ ] Not overtake another vehicle.
+
+
+FTT_E_P4_Q20: The effectiveness of engine brake with a 3rd gear is
+[ ] Greater than 2nd gear.
+[ ] The same with the 2nd gear.
+[x] Lesser than 2nd gear.
+
+
+FTT_E_P4_Q21: Braking is more effective when you depress the brake pedal
+[x] With the gear engaged.
+[ ] With the clutch depressed.
+[ ] With the gear lever in ‘Neutral’.
+
+
+FTT_E_P4_Q22: A lower gear has
+[x] More power and less speed than a higher gear.
+[ ] More speed and less power than a higher gear.
+[ ] Less power and less speed than a higher gear.
+
+
+FTT_E_P4_Q23: After engaging the first gear and the clutch pedal is released to the ‘biting point’, there is
+[x] A slight drop in the engine revolution.
+[ ] A slight increase in the engine revolution.
+[ ] No change in the engine revolution.
+
+
+FTT_E_P4_Q24: At a sharp bend you should
+[x] Not overtake other vehicles.
+[ ] Overtake, if the speed of the vehicle in front is slow.
+[ ] Follow closely behind the front car.
+
+
+FTT_E_P4_Q25: After parking your car on an upward slope, you should
+[x] Engage the 1st gear.
+[ ] Engage the reverse gear.
+[ ] Shift the gear to neutral.
+
+
+FTT_E_P4_Q26: When two vehicles moving in opposite directions meet on a slope where the road is narrow, which vehicle should give way?
+[ ] The vehicle that is going up slope.
+[x] The vehicle that is going down slope.
+[ ] The smaller vehicle.
+
+
+FTT_E_P4_Q27: If a motorcyclist is trying to overtake you, you should
+[ ] Drive faster to prevent the rider from overtaking you.
+[x] Slow down and assist the rider to overtaking safely.
+[ ] Signal the driver to overtake on the left.
+
+
+FTT_E_P4_Q28: Before reversing, you should check
+[ ] Behind.
+[x] All round.
+[ ] Ahead and behind.
+
+
+FTT_E_P4_Q29: Before you reverse, you must make sure that there are no
+[ ] Other vehicles behind you.
+[ ] Children, pedestrian and obstruction in the blind area.
+[x] Boths above.
+
+
+FTT_E_P4_Q30: On rainy day, less tread on your tyres will
+[x] Increase your braking distance.
+[ ] Decrease your braking distance.
+[ ] Not affect your braking distance.
+
+
+FTT_E_P4_Q31: Under inflated tyres will make the steering feel
+[ ] Light.
+[x] Heavy.
+[ ] Normal.
+
+
+FTT_E_P4_Q32: If you increase your speed when going round a bend, it will be
+[x] Difficult for you to keep your intended path.
+[ ] Safer for you.
+[ ] Easier for you to control your car.
+
+
+FTT_E_P4_Q33: The stopping distance on a wet road is longer than on a dry road.
+[ ] 4 times
+[ ] 3 times
+[x] 2 times
+
+
+FTT_E_P4_Q34: In an emergency stop, you should
+[x] Apply only the brakes.
+[ ] Apply the brakes and clutch together.
+[ ] Apply the clutch first and then the brakes.
+
+
+FTT_E_P4_Q35: On a sharp bend at night, to avoid dazzling oncoming traffic, you should
+[ ] Switch off your lights.
+[x] Dip your headlights.
+[ ] Swith on high beam.
+
+
+FTT_E_P4_Q36: The purpose of using dipped headlights whilst driving is to
+[ ] To save the battery's electrical energy.
+[ ] To light up the road immediately in front of you.
+[x] To avoid dazzling drivers of oncoming vehicles.
+
+
+FTT_E_P4_Q37: When following a car driven by an elderly driver, you should
+[ ] Flash your lights and overtake.
+[x] Be aware that the driver's reactions may not be as fast as yours.
+[ ] Expect the driver to drive badly.
+
+
+FTT_E_P4_Q38: When the traffic light turns green at a junction, you should
+[ ] Depress the accelerator hard and move off quickly.
+[x] Check traffic from right and left before moving off.
+[ ] Only move off when other vehicles move.
+
+
+FTT_E_P4_Q39: When you see a vehicle slowing down at a pedestrian crossing, you should
+[ ] Overtake the slow moving vehicle.
+[ ] Maintain your normal speed.
+[x] Slow down and be ready to stop.
+
+
+FTT_E_P4_Q40: Before overtaking a large vehicle you should keep a longer distance. The reason is
+[ ] To offer others a gap if they wanted to overtake you.
+[x] To get the best view of the road ahead.
+[ ] To leave a gap in case the vehicle stops abruptly and rolls back.
+
+
+FTT_E_P4_Q41: In slow moving traffic, you should always
+[ ] Sound the horn so that vehicles in front will move faster.
+[x] ‘Stay in your lane.
+[ ] Move quickly to another lane with a shorter queue.
+
+
+FTT_E_P4_Q42: The engine is often cooled by
+[ ] Oil only.
+[x] Water, air and oil.
+[ ] Air only.
+
+
+FTT_E_P4_Q43: If you are involved in an accident and someone is injured, you should
+[ ] Move your vehicle to the side to avoid causing obstruction.
+[x] Not move the vehicles involved until the police arrive.
+[ ] First inform your insurance company.
+
+
+FTT_E_P4_Q44: Aquaplaning is a condition where the tyres lose contact with the road surface, which results in a loss of
+[ ] Clutch control.
+[x] Steering control and braking efficiency.
+[ ] Gear control and accelerating efficiency.
+
+
+FTT_E_P4_Q45: A driver does something that upsets you, you should
+[x] Try not to react.
+[ ] Flash your headlights several times.
+[ ] Sound your horn.
+
+
+FTT_E_P4_Q46: The penalty for driving on the road-shoulder of an Expressway is
+[ ] A fine.
+[ ] To be charged in court.
+[x] A fine with demerit points.
+
+
+FTT_E_P4_Q47: At a roundabout you notice a cyclist is signaling to turn right ahead, you should
+[ ] Overtake on the right.
+[x] Give the cyclist plenty of room.
+[ ] Give a horn warning.
+
+
+FTT_E_P4_Q48: How should you overtake cyclists?
+[ ] Use your horn just once to warn them.
+[x] Drive slowly and leave plenty of room.
+[ ] Overtake them as quickly as possible.
+
+
+FTT_E_P4_Q49: Before moving off from a stationary position, you should
+[ ] Signal your intention.
+[ ] Lookout for other road users especially those in front and behind.
+[x] Both A and B.
+
+
+FTT_E_P4_Q50: If you have to downshift for a turn, you should do it
+[x] Before you start the turn.
+[ ] Just as you begin the turn.
+[ ] While you are in the turn.
+
+

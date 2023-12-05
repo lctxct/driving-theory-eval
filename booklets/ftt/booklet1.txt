@@ -1,0 +1,300 @@
+FTT_E_P1_Q01: When driving behind a bus, you should
+[x] Keep a longer following distance.
+[ ] Keep the normal following distance.
+[ ] Keep more to the right to have a better view.
+
+
+FTT_E_P1_Q02: When you are driving along a main road, you should
+[ ] Stop at every road junction before proceeding.
+[ ] Accelerate through each junction.
+[x] Check every side road before you drive past them.
+
+
+FTT_E_P1_Q03: You notice a vehicle trying to pull out between a row of stationary vehicles. You should
+[ ] Drive on regardless of danger ahead.
+[ ] Sound the horn and maintain your speed.
+[x] Slow down and be prepared to stop.
+
+
+FTT_E_P1_Q04: As vehicle speed increases, your field of vision would be
+[x] Reduced.
+[ ] Remained the same.
+[ ] Increased.
+
+
+FTT_E_P1_Q05: When driving, your arms should be
+[ ] Straighten.
+[x] Slightly bent.
+[ ] Bent at 90 degree.
+
+
+FTT_E_P1_Q06: Some of the common vehicle defects that can cause accidents are
+[ ] Faulty seat belts, seats, child restraint and alarm system.
+[x] Faulty tyres, brakes, shock absorbers and windscreen wipers.
+[ ] Dull paint, dented bumpers and old seats.
+
+
+FTT_E_P1_Q07: The handbrake of a car acts
+[x] Only on the rear wheels.
+[ ] Only on the front wheels.
+[ ] On both the front and rear wheels.
+
+
+FTT_E_P1_Q08: When passing the stationary bus at the bus-stop, you should si //TODO:
+[x] Sound the horn to warn the bus driver of your presence.
+[ ] Speed up to overtake the bus before it moves off.
+[ ] Slow down and be ready to stop for pedestrian who may cross the road in front of the
+
+
+FTT_E_P1_Q09: Both the van and the car are entering a carpark, the car should not overtake the van
+[ ] Because of the centre white line.
+[ ] Because of the double yellow line.
+[x] Because it is not safe to do so.
+
+
+FTT_E_P1_Q10: How does alcohol affect you?
+[x] It reduces your concentration.
+[ ] It increases your awareness.
+[ ] It improves your co-ordination.
+
+
+FTT_E_P1_Q11: The 'Two-second Rule’ is a sufficient distance between your vehicle and the car in front when road condition is
+[ ] Wet.
+[x] Good.
+[ ] Hazy.
+
+
+FTT_E_P1_Q12: You will not be allowed to apply for a Provisional Driving Licence (PDL) if you have
+[ ] 6 demerit points.
+[ ] 9 demerit points.
+[x] 13 demerit points.
+
+
+FTT_E_P1_Q13: You will not be allowed to take your driving test if you have
+[x] 13 demerit points.
+[ ] 12 demerit points.
+[ ] 24 demerit points.
+
+
+FTT_E_P1_Q14: When you hear the siren of an emergency vehicle, you should
+[ ] Stop immediately where you are in order to make way.
+[x] Pull over to the left or right side of the road.
+[ ] Sound your horn to warn the front vehicles to speed up.
+
+
+FTT_E_P1_Q15: The safe following distance is
+[ ] 1 car-length for every 5 kmh of your speed.
+[x] 1 car-length for every 10 kmh of your speed.
+[ ] 1 car-length for every 20 kmh of your speed.
+
+
+FTT_E_P1_Q16: After driving through flood the brakes may malfunction. In order to correct this, you must
+[ ] Stop the vehicle on a slope to allow water to flow out from the brakes.
+[x] Pump the brake pedal repeatedly to dry the brakes.
+[ ] Drive at normal speed to spin-dry the brakes.
+
+
+FTT_E_P1_Q17: An automatic car has foot pedal/s
+[ ] ??? (check question bank)
+[x] Two.
+[ ] Three.
+
+
+FTT_E_P1_Q18: When entering the expressway, vehicles on the left lane
+[x] Should adjust their speed in order to merge in smoothly.
+[ ] Must not slow down or stop.
+[ ] Must stop at the dotted line
+
+
+FTT_E_P1_Q19: The right-most outer lane of the expressway is meant for
+[x] Emergency vehicles and overtaking.
+[ ] Vehicles travelling at the maximum speed limit.
+[ ] Slow moving vehicles.
+
+
+FTT_E_P1_Q20: Before reaching a junction, you should
+[x] Form up into the correct lane which you intend to travel.
+[ ] Sound your horn to caution other road users.
+[ ] Speed up so as not to cause a traffic jam.
+
+
+FTT_E_P1_Q21: To assist braking when you are traveling downhill, you should use
+[ ] The front brakes only.
+[ ] Both the front and rear brakes only.
+[x] Both the front, rear brakes and engine brake.
+
+
+FTT_E_P1_Q22: When the clutch pedal is depressed
+[x] Engine-brake will no longer be effective.
+[ ] Engine-brake will be effective.
+[ ] Brake linings will be burnt.
+
+
+FTT_E_P1_Q23: With gear engaged, engine power is not connected to the wheel when the clutch
+[ ] Is released.
+[x] Is applied.
+[ ] Is released halfway.
+
+
+FTT_E_P1_Q24: You should not depress the clutch when
+[ ] Stopping.
+[ ] Changing gears.
+[x] Going round a bend.
+
+
+FTT_E_P1_Q25: When you see a bend ahead, you should
+[ ] Change from the 3rd gear to the 4th gear before entering the bend.
+[ ] Depress the clutch as you enter the bend.
+[x] Change from the 4th gear to the 3rd gear before entering the bend.
+
+
+FTT_E_P1_Q26: To move off smoothly uphill, you must be good at co-ordinating
+[ ] The clutch, foot-brake and handbrake.
+[x] The clutch, accelerator and handbrake.
+[ ] The clutch, foot-brake and accelerator.
+
+
+FTT_E_P1_Q27: You may overtake another vehicle on the left
+[ ] If it is a heavy vehicle.
+[x] If the driver in front signals his intention to turn right.
+[ ] If you are certain that the vehicle would not change direction.
+
+
+FTT_E_P1_Q28: While reversing you should
+[ ] Look at the rear view and side view mirrors.
+[ ] Look through the rear windscreen.
+[x] Both A and B above.
+
+
+FTT_E_P1_Q29: Reversing from a side road into a main road is
+[ ] Allowed if there is no vehicle around.
+[x] Not allowed for it is unsafe and could cause road accident.
+[ ] Allowed during the daytime only.
+
+
+FTT_E_P1_Q30: Driving with a ‘bald’ tyre is dangerous because
+[ ] It skids more easily.
+[ ] There is greater probability of punctures.
+[x] Both A and B.
+
+
+FTT_E_P1_Q31: If the front tyre is punctured,
+[ ] The car will pull away from the side of the punctured tyre.
+[x] The car will pull to the side of the punctured tyre.
+[ ] The car will move from side to side.
+
+
+FTT_E_P1_Q32: When negotiating a sharp bend, centrifugal force pushes your vehicle
+[ ] Inwards.
+[x] Outwards.
+[ ] Forward.
+
+
+FTT_E_P1_Q33: Reaction distance is the distance travelled from the moment, the
+[ ] Brake is applied to the time the vehicle comes to a stop.
+[ ] Hazard is seen to the time the vehicle comes to a stop.
+[x] Hazard is seen to the time the brake is applied.
+
+
+FTT_E_P1_Q34: Why is free wheeling wrong?
+[ ] it will cause the vehicle to skid.
+[x] There is no engine braking.
+[ ] The engine will run faster.
+
+
+FTT_E_P1_Q35: All drivers are required by law to switch on the vehicle's headlights whilst driving between
+[x] 7.00 pm and 7.00 am.
+[ ] 7.15 pm and 7.15 am.
+[ ] 7.30 pm and 7.30 am.
+
+
+FTT_E_P1_Q36: Switching on the headlights whilst driving in heavy rain during the daytime
+[x] Is advisable because you can be readily seen by others.
+[ ] Is not advisable because it will shorten the battery life.
+[ ] Is not advisable because the rain water will reflect the light.
+
+
+FTT_E_P1_Q37: As you appoach a controlled junction the lights change to green. Elderly people are halfway across, you should
+[ ] Rev your engine to make them hurry.
+[x] Wait because they will take longer to cross.
+[ ] Flash your lights to hurry them.
+
+
+FTT_E_P1_Q38: When approaching a green traffic light signal at a junction, you must
+[ ] Speed up to drive through the junction.
+[x] Slow down and be prepared to stop.
+[ ] Maintain your speed.
+
+
+FTT_E_P1_Q39: In this situation, the 'red' car should pay special attention to
+[x] The school children.
+[ ] The turning vehicle.
+[ ] The fraffic light
+
+
+FTT_E_P1_Q40: When following behind a large vehicle, you should
+[ ] Move more to the right to have a better view.
+[x] Keep a longer following distance as you would with other vehicles.
+[ ] Follow at the same distance as you would with other vehicles.
+
+
+FTT_E_P1_Q41: The right most outer lane on a three-lane carriageway is for
+[x] Emergency vehicles and overtaking only.
+[ ] Vehicles travelling at the maximum speed limit of the road.
+[ ] Vehicles which are capable of travelling at high speed.
+
+
+FTT_E_P1_Q42: Generally, overheating of the engine is largely due to
+[ ] Long distance driving.
+[x] Poor vehicle maintenance.
+[ ] Lack of petrol.
+
+
+FTT_E_P1_Q43: The engine oil level on the dip stick should be
+[ ] Below the lower marking.
+[ ] Above the upper marking.
+[x] Between the lower and upper markings.
+
+
+FTT_E_P1_Q44: When your vehicle starts to skid while braking, you should
+[ ] Step harder on the brake pedal.
+[x] Release the brakes and apply intermittent braking.
+[ ] Neutralise the gear and apply the front brakes.
+
+
+FTT_E_P1_Q45: While driving along an expressway and your handphone (without hands-free kit) rings, you should
+[ ] Answer the call immediately.
+[x] Carry on driving and find a safe spot out of the expressway before answering the call.
+[ ] Stop at the road shoulder and answer the call.
+
+
+FTT_E_P1_Q46: Is it an offence to drive on the road shoulder of the expressway?
+[x] Yes, it is an offence.
+[ ] It is not an offence.
+[ ] It is not an offence if the road is congested.
+
+
+FTT_E_P1_Q47: When passing a cyclist, what is the minimum side clearance you must
+[ ] ensure between the cyclist and your car?
+[x] 0.
+[ ] answer
+
+
+FTT_E_P1_Q48: When a cyclist in front of you is glancing to the rear, it means that FR:
+[x] He might change direction.
+[ ] He is going to stop.
+[ ] He is about to speed up.
+
+
+FTT_E_P1_Q49: A turn signal that keeps flashing after a turn is very likely to
+[x] Confuse other drivers and cause them to turn into your path.
+[ ] Damage the electrical system.
+[ ] Keep other drivers from seeing your brake light.
+
+
+FTT_E_P1_Q50: The rear view mirror inside the cabin should be adjusted so that
+[ ] Only the right hand side of the rear windscreen can be seen in the mirror.
+[ ] Only the left hand side of the rear windscreen can be seen in the mirror.
+[x] A full view of the rear windscreen can be seen in the mirror.
+
+

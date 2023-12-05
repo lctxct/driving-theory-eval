@@ -1,0 +1,300 @@
+FTT_E_P9_Q01: Why should you look out particularly for motorcyclists and cyclists at junctions?
+[ ] They might want to turn into the side road.
+[x] They are harder to see.
+[ ] They might not see you turn.
+
+
+FTT_E_P9_Q02: You are waiting to come out of a side road. Why should you watch carefully for motocycles?
+[ ] Motorcycles have right of way.
+[x] Motorcycles are small and hard to see.
+[ ] Motorcycles are usually faster than cars.
+
+
+FTT_E_P9_Q03: You are travelling along an expressway . You decided that you need a rest, you should
+[ ] Stop on the road shoulder.
+[x] Leave at the next exit.
+[ ] Park on the slip road.
+
+
+FTT_E_P9_Q04: You should adjust your so that all controls can be reached without having to stretch.
+[ ] Seat belt
+[ ] Eye-sight
+[x] Driver seat
+
+
+FTT_E_P9_Q05: Which wheels turn when you turn the steering wheel?
+[x] The front wheels.
+[ ] The back wheels.
+[ ] Both the front and back wheels.
+
+
+FTT_E_P9_Q06: While driving and your windscreen is shattered, you should
+[ ] Apply emergency brake to stop immediately.
+[x] Slow down and stop at the road side to remove the shattered screen.
+[ ] Drive at normal speed to a workshop.
+
+
+FTT_E_P9_Q07: When the amber light flashes continuously and there is a policeman standing in the middle of the junction, you should
+[ ] Proceed on as the light is going to change.
+[ ] Proceed on and give way to traffic on the right only.
+[x] Be cautious and follow the direction given by the policeman.
+
+
+FTT_E_P9_Q08: Which lane should Car A turn into? (//TODO:)
+[x] Lane CorD.
+[ ] Lane Borc.
+[ ] lane C
+
+
+FTT_E_P9_Q09: Which lane should Car Y turn into?
+[ ] Lane 1
+[ ] Lane 2
+[x] Lane 3
+
+
+FTT_E_P9_Q10: Which of the following statement on alcohol is true?
+[ ] You may decline a breath or blood test.
+[ ] Alcohol will not be detected by the breath test after peppermints have been eaten.
+[x] Even a small amount of alcohol tends to increase the chance of an accident.
+
+
+FTT_E_P9_Q11: Before you make a U-turn on the road, you should check your blind spot by
+[ ] Looking at the rear view mirror.
+[x] Looking over your shoulder.
+[ ] Looking at the side mirrors.
+
+
+FTT_E_P9_Q12: A new driver's licence will be revoked if within a year of passing the test, he has accumulated
+[x] 13 driving demerit points.
+[ ] 12 driving demerit points.
+[ ] 10 driving demerit points.
+
+
+FTT_E_P9_Q13: A driver with more than 12 months driving experience will be suspended from driving, if he has accumulated
+[x] 24 demerit points.
+[ ] 16 demerit points.
+[ ] 12 demerit points.
+
+
+FTT_E_P9_Q14: When you cannot confirm the direction of the approach of an emergency vehicle, you should
+[ ] Maintain your speed and position.
+[ ] Increase the speed of your vehicle.
+[x] Slow down your speed and move to the left lane.
+
+
+FTT_E_P9_Q15: When being tailgated by a motorcyclist, you should
+[ ] Jam your brakes as a warning.
+[ ] Drive faster to increase the gap.
+[x] Slow down and assist it to pass you.
+
+
+FTT_E_P9_Q16: When approaching a road that is flooded but passable to vehicles, you should
+[ ] Engage a higher gear to go through the flood.
+[x] Engage a lower gear to go through the flood.
+[ ] Drive through as fast as possible.
+
+
+FTT_E_P9_Q17: When driving an automatic vehicle, which foot would you use for the brake?
+[ ] The left foot.
+[x] The right foot.
+[ ] Either foot.
+
+
+FTT_E_P9_Q18: Which of the following situations always cause traffic to slow down on an expressway?
+[ ] Slow moving vehicles occupying the left lane.
+[x] Slow moving vehicles fail to keep left.
+[ ] Fast moving vehicles occupying the outer lane.
+
+
+FTT_E_P9_Q19: Which of the following vehicles is prohibited on the expressway?
+[ ] Prime mover.
+[x] Crane.
+[ ] Army truck.
+
+
+FTT_E_P9_Q20: When turning right at a one-way street, you should position your vehicle
+[x] In the right hand lane.
+[ ] Just left of the centre of the road.
+[ ] In any lane depending on the traffic conditions.
+
+
+FTT_E_P9_Q21: Which gear gives you the most torque?
+[x] tst.
+[ ] 2nd gear.
+[ ] 3rd gear.
+
+
+FTT_E_P9_Q22: Which gear has more power (torque)?
+[x] aad gear.
+[ ] 3rd gear.
+[ ] 4th gear.
+
+
+FTT_E_P9_Q23: Which statement is correct?
+[x] You should change down to an appropriate gear before taking a corner.
+[ ] Tailgating means you are at a safe distance behind another car.
+[ ] Engine braking will cause your vehicle to go faster.
+
+
+FTT_E_P9_Q24: Continuously using the 'Half-clutch' technique for long period of time will cause
+[ ] The brake linings to wear out faster.
+[x] The clutch linings to wear out faster.
+[ ] The engine brake to wear out faster.
+
+
+FTT_E_P9_Q25: When driving through a bend, you should
+[ ] Depress the clutch pedal.
+[ ] Apply brake.
+[x] Maintain your speed.
+
+
+FTT_E_P9_Q26: When stopping the vehicle on an up-slope, you should apply
+[ ] The handbrake first followed by the foot brake.
+[x] The foot brake first followed by the handbrake.
+[ ] Both brakes together.
+
+
+FTT_E_P9_Q27: When being overtaken, you should
+[ ] Speed up.
+[ ] Maintain your speed.
+[x] Slow down.
+
+
+FTT_E_P9_Q28: When the motorcycle you are overtaking suddenly increases speed, you should
+[ ] Accelerate more to overtake it quickly.
+[x] Slow down and abort overtaking it.
+[ ] Sound your horn to warn the driver.
+
+
+FTT_E_P9_Q29: Who are especially in danger of not being seen as you reverse your car?
+[ ] Motorcyclists.
+[ ] Car drivers.
+[x] Children.
+
+
+FTT_E_P9_Q30: When the tyres lose contact with the road (aquaplanning), the steering will feel
+[ ] Very heavy.
+[x] Very light.
+[ ] The same.
+
+
+FTT_E_P9_Q31: When you noticed a cut in the sidewall of one of your tyres, you should
+[x] Replace the tyre before driving the vehicle.
+[ ] Check regularly to see if it gets any worse.
+[ ] Reduce pressure in the tyre before you drive.
+
+
+FTT_E_P9_Q32: When driving round a sharp bend at high speed, your vehicle tends to be pushed out of its path of travel by a force called the
+[ ] Gravitational force.
+[x] Centrigfugal force.
+[ ] Frictional force.
+
+
+FTT_E_P9_Q33: When driving on a wet road, your stopping distance will
+[ ] Not increase.
+[x] Increase to twice more than that of a dry road.
+[ ] Increase to four times more than that of a dry road.
+
+
+FTT_E_P9_Q34: To prevent ‘free wheeling’ when stopping, you should not
+[ ] Depress the foot brake early.
+[x] Depress the clutch too soon.
+[ ] Depress the accelerator pedal.
+
+
+FTT_E_P9_Q35: To enable you to stop in any emergency without losing control of your vehicle, you should
+[ ] Drive according to the speed limit of the road.
+[x] Constantly adjust your speed to the conditions of the road.
+[ ] Adjust your steering grip.
+
+
+FTT_E_P9_Q36: When the oncoming car refuses to dim its headlights, you should
+[x] Slow down and look at the left side of the kerb.
+[ ] Retaliate by turning on your high beam.
+[ ] Maintain your speed and the headlight status.
+
+
+FTT_E_P9_Q37: You are turning left from a main road into a side road. Pedestrians are already crossing the road into which you are turning, you should
+[ ] Continue as it is your right of way.
+[x] Wait and allow them to cross.
+[ ] Sound your horn to warn them.
+
+
+FTT_E_P9_Q38: When the traffic lights signal turns amber, you should
+[ ] Accelerate and cross the junction.
+[x] Slow down and be ready to stop.
+[ ] Proceed with caution as the traffic light signals are out of order.
+
+
+FTT_E_P9_Q39: When you approach a ‘green’ traffic light signal at a junction, you should
+[ ] Accelerate hard,
+[x] Slow down and be ready to stop.
+[ ] Maintain your speed.
+
+
+FTT_E_P9_Q40: You are following a long vehicle. It approaches a cross-roads and signals left but moves out to the right. You should
+[ ] Get closer in order to pass it quickly.
+[ ] Overtake as it starts to slow down.
+[x] Stay well back and give it more room.
+
+
+FTT_E_P9_Q41: When should you use the right outer most lane of a carriageway?
+[ ] When driving at the maximum speed.
+[x] When overtaking.
+[ ] When all other lanes are occupied.
+
+
+FTT_E_P9_Q42: You are driving in slow-moving queues of traffic. Just before changing lane you should
+[ ] Sound the horn,
+[x] Look out for motorcycles filtering through the traffic.
+[ ] Change down to first gear.
+
+
+FTT_E_P9_Q43: When the temperature gauge indicates ‘hot' and steam is coming out from the bonnet of your car, you should
+[ ] Drive slowly to the nearest workshop.
+[x] Stop by the side and wait for the engine to cool before filling with water.
+[ ] Stop and fill the radiator with coolant immediately.
+
+
+FTT_E_P9_Q44: When a skid is caused by harsh braking, correction can only begin by releasing the
+[ ] Clutch pedal.
+[ ] Accelerator pedal.
+[x] Brake pedal.
+
+
+FTT_E_P9_Q45: When the car skids while braking, you should
+[ ] Depress the brake pedal harder.
+[x] Release and depress the foot brake again.
+[ ] Apply handbrake immediately.
+
+
+FTT_E_P9_Q46: You are travelling at the legal speed limit. A vehicle comes up quickly behind, flashing its headlights. You should
+[ ] Maintain your speed to prevent the vehicle from overtaking.
+[x] Allow the vehicle to overtake.
+[ ] Tap the brakes sharply to show your brake lights.
+
+
+FTT_E_P9_Q47: The road shoulder of an expressway is also meant for
+[ ] Motorist to take a rest.
+[ ] Picking up and letting down of passengers.
+[x] Broken down vehicles.
+
+
+FTT_E_P9_Q48: You are turning left into a side road. Cyclists are crossing the road near the junction. You should
+[ ] Sound your horn.
+[x] Wait for them to cross.
+[ ] Proceed as normal.
+
+
+FTT_E_P9_Q49: You must signal your intention at least
+[ ] 2 seconds in advance.
+[x] 3 seconds in advance.
+[ ] 5 seconds in advance.
+
+
+FTT_E_P9_Q50: When moving off from a stationary position, you have to
+[ ] Look in the mirrors, give proper signal, check traffic and pedestrians.
+[ ] Give way to passing and overtaking vehicles.
+[x] Boths A and B.
+
+

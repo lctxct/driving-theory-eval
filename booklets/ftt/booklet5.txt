@@ -1,0 +1,300 @@
+FTT_E_P5_Q01: If you saw a sign indicating road repairs are going on, you should
+[ ] Stop immediately and wait for instructions.
+[x] Slow down and watch out for traffic controllers and instructions.
+[ ] Maintain the same speed.
+
+
+FTT_E_P5_Q02: What is the best choice you have to do at the first sign of drowsiness?
+[ ] Slow down and continue at a constant speed.
+[x] Let fresh air gets into the car and at the first opportunity, stop and rest.
+[ ] Continue to drive and try to keep awake.
+
+
+FTT_E_P5_Q03: When approaching a built-up area, you should
+[ ] Drive at the same speed.
+[x] Reduce your speed.
+[ ] Increase your speed.
+
+
+FTT_E_P5_Q04: To test if the brakes are working properly, you should let the car move slowly then
+[ ] Jam hard on the brakes.
+[x] Step on the foot brake.
+[ ] Step on the clutch pedal.
+
+
+FTT_E_P5_Q05: When the accelerator pedal is released, there will be
+[x] A reduction in the engine revolutions.
+[ ] An increase in the engine revolutions.
+[ ] No change in the engine revolutions.
+
+
+FTT_E_P5_Q06: The handbrake is used when
+[ ] Going downhill.
+[x] Stopping and waiting at a traffic light junction.
+[ ] Driving on a wet surface.
+
+
+FTT_E_P5_Q07: Hand Signals given by Police officers directing the flow of traffic over-rules
+[ ] Road signs and road markings only.
+[ ] Traffic light signals and traffic regulations only.
+[x] Both A and B.
+
+
+FTT_E_P5_Q08: Car A is slowing down or stopping. What should Car B do?
+[ ] Sound the horn to alert pedestrians who may be crossing the road.
+[x] Reduce speed and be ready to stop if necessary.
+[ ] Accelerate to pass fhe nedestrian crossing quickly
+
+
+FTT_E_P5_Q09: In this scenario the car that is going straight should
+[ ] Overtake by the left quickly before the junction.
+[x] Slow down and let the lorry turn.
+[ ] Speed up and overtake
+
+
+FTT_E_P5_Q10: Drink driving may cause
+[x] Reduce the co-ordination of the control of vehicle.
+[ ] Faster reaction.
+[ ] Increase alertness.
+
+
+FTT_E_P5_Q11: To check ‘blind spot' when driving, you must
+[x] Turn your head and look over your shoulder.
+[ ] Turn your head and look into the wing mirrors.
+[ ] Turn your head and look into the rear-view mirror.
+
+
+FTT_E_P5_Q12: The 'Two-Second Rule’ of safe following distance applies to all vehicles travelling at
+[ ] Slow speed only.
+[ ] Fast speed only.
+[x] Any speed.
+
+
+FTT_E_P5_Q13: The period of ‘probation’ for a newly qualified driver is
+[x] 1 years.
+[ ] 2 years.
+[ ] 3 years.
+
+
+FTT_E_P5_Q14: If a fire engine behind you sounds the siren, you should
+[ ] Continue at normal speed.
+[x] Move to the side, slow down or stop if necessary.
+[ ] Increase your speed and move to the side.
+
+
+FTT_E_P5_Q15: When another vehicle is following close behind, you should
+[x] Move to the left and allow the vehicle behind to overtake.
+[ ] Drive faster so as not to obstruct the vehicle behind.
+[ ] Ignore the vehicle if you are travelling at the legal maximum speed.
+
+
+FTT_E_P5_Q16: The safe following distance between the front vehicle and your vehicle is
+[ ] One car length for every 5 km/h.
+[x] One car length for every 10 km/h.
+[ ] One car length for every 15 km/h.
+
+
+FTT_E_P5_Q17: Cars fitted with automatic transmission, select the gear depending on the speed and the load on the engine. They therefore have no
+[ ] Brake pedal.
+[x] Clutch pedal.
+[ ] Accelerator pedal.
+
+
+FTT_E_P5_Q18: On the expressway if the road is clear, you should
+[x] Keep to the left lane.
+[ ] Keep to the extreme right lane.
+[ ] Drive in the centre lane.
+
+
+FTT_E_P5_Q19: On the expressway, you should
+[ ] Overtake by the extreme left lane.
+[ ] Keep to the extreme right lane if you are on maximum speed.
+[x] Keep to the left lane if the road ahead is clear.
+
+
+FTT_E_P5_Q20: Switching lanes suddenly or abruptly will
+[ ] Improve the flow of traffic on the road.
+[x] Cause inconvenience and danger to other motorists.
+[ ] Cause wear and tear to the vehicle.
+
+
+FTT_E_P5_Q21: Before you start the engine (manual car) you must always check that
+[ ] The gear lever is in 1st gear.
+[x] The gear lever is in neutral.
+[ ] The gear lever is in reverse.
+
+
+FTT_E_P5_Q22: Compared to a higher gear, a lower gear has
+[x] More power but lesser speed.
+[ ] More power and higher speed.
+[ ] Less power and lesser speed.
+
+
+FTT_E_P5_Q23: If you were traveling at 80 km/h on a clear road, which gear would you most likely select?
+[ ] 2nd gear.
+[ ] 3rd gear.
+[x] 4th gear or 5th gear.
+
+
+FTT_E_P5_Q24: Maintaining the 'half-clutch' technique (slipping of the clutch) position for too long when moving off on a slope will
+[ ] Wear out the brake lining.
+[x] Wear out the clutch lining.
+[ ] Not cause damage to the clutch lining.
+
+
+FTT_E_P5_Q25: At bends, when the visibility is poor and you cannot see clearly ahead, you should
+[x] Not overtake.
+[ ] Overtake slow moving vehicles only.
+[ ] Tailgate the vehicle in front.
+
+
+FTT_E_P5_Q26: Before you move off on a slope which brake should you release?
+[ ] Both handbrake and foot-brake.
+[ ] Foot-brake only.
+[x] Handbrake.
+
+
+FTT_E_P5_Q27: Just before you move off on an up-slope which brake should you apply?
+[ ] Both handbrake and foot-brake.
+[ ] Foot brake only.
+[x] Handbrake.
+
+
+FTT_E_P5_Q28: If the car you are overtaking is drifting in its lane, you should
+[x] Use your horn to warn him.
+[ ] Signal him with your hand.
+[ ] Overtake it quickly.
+
+
+FTT_E_P5_Q29: If your view is blocked while reversing, you should
+[ ] Sound the horn as you reverse.
+[ ] Stop and wait until the obstruction is cleared.
+[x] Seek help.
+
+
+FTT_E_P5_Q30: The first thing a driver of a motorcar should do before reversing is to
+[ ] Release the brakes.
+[x] Take a good look at the traffic behind.
+[ ] Release the seat belt.
+
+
+FTT_E_P5_Q31: Vehicle tyres that have treads less than in depth should be replaced.
+[ ] 1.8mm
+[x] 16mm
+[ ] 2.0mm
+
+
+FTT_E_P5_Q32: When the speed increases while driving round a bend, the push of the centrifugal force will
+[x] Be greater.
+[ ] Be lesser.
+[ ] Remain unchanged.
+
+
+FTT_E_P5_Q33: To avoid skidding on a wet road when stopping, you should always
+[x] Apply intermittent (on/off) braking technique.
+[ ] Depress the clutch pedal followed by the brake pedal.
+[ ] Depress the brake pedal and apply the handbrake together.
+
+
+FTT_E_P5_Q34: If the frictional force is reduced on wet road, the stopping distance will be
+[ ] The same.
+[x] Longer.
+[ ] Shorter.
+
+
+FTT_E_P5_Q35: The correct way to stop a car is to depress
+[ ] The clutch pedal first followed by the brake pedal.
+[x] The brake pedal first followed by the clutch pedal.
+[ ] Both the clutch and brake pedals at the same time.
+
+
+FTT_E_P5_Q36: When blinded by the headlights of an oncoming vehicle at night, you should
+[ ] Close your eyes.
+[x] Slow down or stop.
+[ ] Pull down the sun visor.
+
+
+FTT_E_P5_Q37: A flashing amber traffic light signal means
+[ ] Signal is about to be cancelled.
+[ ] Stop unless you are so close to the stop-line that you cannot stop safety.
+[x] Traffic lights signals are out of order.
+
+
+FTT_E_P5_Q38: The light turns red as you approach a traffic junction, when stopping you should
+[ ] Depress the brake and the clutch pedals simultaneously.
+[ ] Shift to neutral and step on the brakes.
+[x] Brake firmly and depress the clutch pedal as the car comes to a stop.
+
+
+FTT_E_P5_Q39: While turning left into a side road, you noticed pedestrians have started to cross the road, you should
+[x] Give way to them.
+[ ] Rewing your engine to hurry them.
+[ ] Continue, as you have the right of way.
+
+
+FTT_E_P5_Q40: The first thing you should do when you want to overtake a large lorry is
+[ ] Move close behind so you can pass quickly.
+[ ] Keep close to the right hand side.
+[x] Stay well back to get a better view.
+
+
+FTT_E_P5_Q41: In a traffic hold-up, you should
+[ ] Switch off the engine.
+[ ] Use the road shoulder.
+[x] Not change lanes.
+
+
+FTT_E_P5_Q42: An over-heated engine is usually caused by
+[ ] Travelling at a high speed over a long distance.
+[ ] Running the engine too long while stationary.
+[x] Poor maintenance of the vehicle.
+
+
+FTT_E_P5_Q43: In an accident where no one is injured, you should
+[ ] Leave your vehicles at the scene, while you settle the matters with the other party.
+[ ] Leave you vehicle at the scene and wait for the police to arrive.
+[x] Move your vehicle to the side of the road so as not to cause obstruction.
+
+
+FTT_E_P5_Q44: The best defence against aquaplaning is to
+[ ] Speed up.
+[x] Slow down and have sufficient treads on your tyres.
+[ ] Free wheel across.
+
+
+FTT_E_P5_Q45: How would you react to probationary drivers who appear to be inexperienced?
+[ ] Sound your horn to warn them of your presence.
+[x] Be patient and prepare for them to react more slowly.
+[ ] Overtake them as soon as possible.
+
+
+FTT_E_P5_Q46: Are you allowed to drive on the road shoulder of an expressway?
+[ ] Yes, only on Sundays and Public Holidays.
+[ ] Yes, when there is a traffic jam.
+[x] No, it is an offence.
+
+
+FTT_E_P5_Q47: When a cyclist turns his head to the rear, it indicates that
+[x] He may change his direction.
+[ ] He wants to stop.
+[ ] His rear tyre is punctured.
+
+
+FTT_E_P5_Q48: When about to turn left and there is a cyclist on the left, you should
+[ ] Horn to warn him.
+[ ] Drive faster to pass the cyclist.
+[x] Slow down and allow the cyclist to pass first.
+
+
+FTT_E_P5_Q49: Before moving off, you should
+[ ] Use your mirrors and signal if necessary.
+[x] Use your mirrors, check your blind spot and signal.
+[ ] Signal and move.
+
+
+FTT_E_P5_Q50: If you turn too late when steering around a corner, you risk
+[x] Swinging wide on left turns.
+[ ] Striking the left kerb when turning left.
+[ ] Cutting the corner when turning right.
+
+

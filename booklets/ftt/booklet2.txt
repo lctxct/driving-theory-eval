@@ -1,0 +1,300 @@
+FTT_E_P2_Q01: When you are approaching a stationary vehicle with a driver in it, you should
+[ ] Drive past him quickly so as not to obstruct him.
+[x] Slow down a little because he may move out suddenly.
+[ ] Drive at the same speed because it is his duty to check passing traffic.
+
+
+FTT_E_P2_Q02: When driving a car you are not familiar with, you should first test
+[ ] How fast it can go in the 1st gear.
+[ ] How much space it requires to make a turn.
+[x] How effective its brakes are.
+
+
+FTT_E_P2_Q03: Before opening your car door, you should look out for
+[ ] Passsers-by and other motor vehicles.
+[ ] Cyclist and motorcyclist.
+[x] All the above.
+
+
+FTT_E_P2_Q04: When changing gear, you should look
+[ ] Down at the gear lever.
+[x] At the road ahead.
+[ ] Down at the clutch pedal.
+
+
+FTT_E_P2_Q05: The correct way of braking is to
+[x] Press the brake pedal early and hard and then reduce pressure gradually.
+[ ] Press the brake pedal late and hard until the vehicle comes to a stop.
+[ ] Press hard on the brake and clutch pedal together till vehicle stops.
+
+
+FTT_E_P2_Q06: The handbrake is used
+[ ] When driving up a hill.
+[ ] To control the speed of the car.
+[x] When the car is stationary during stopping, waiting and parking.
+
+
+FTT_E_P2_Q07: When your car breaks down on an expressway, a red triangle breakdown sign should be placed
+[ ] On the top of your car.
+[ ] Beside your car.
+[x] At least 20 metres behind your car.
+
+
+FTT_E_P2_Q08: In the situation as shown, the motor car should ee
+[x] Slow down and turn after the motorcyclist.
+[ ] Speed up and turn before the motorcyclist reaches the junction.
+[ ] Turn side by side with the moftorcrvclist
+
+
+FTT_E_P2_Q09: In a traffic hold-up situation as shown, vehicle 'X' should
+[x] Leave some space for vehicle Y to move out.
+[ ] Move to the position 'Z'.
+[ ] Turn left instead
+
+
+FTT_E_P2_Q10: Which of the following statements on alcohol and driving is true?
+[ ] It is safe to drive as long as you think you are not drunk.
+[x] It is unsafe to drive after consuming alcohol.
+[ ] It is safe to drive one hour after having the last drink.
+
+
+FTT_E_P2_Q11: You are on a clear and open road in good weather condition, the distance between you and the vehicle in front should be
+[ ] One car's length.
+[ ] Two car's length.
+[x] Two second time gap.
+
+
+FTT_E_P2_Q12: A person will not be allowed to register for a test if he has accumulated
+[ ] 10 demerit points.
+[ ] 12 demerit points.
+[x] 13 demerit points.
+
+
+FTT_E_P2_Q13: You will not be allowed to apply for a driving test date if you have
+[ ] 10 demerit points.
+[ ] 12 demerit points.
+[x] 13 demerit points.
+
+
+FTT_E_P2_Q14: When you hear the siren of an emergency vehicle but are not sure where it is coming from, you should
+[ ] Continue to drive at the same speed.
+[x] Move to the side and stop if necessary.
+[ ] Drive faster so as not to obstruct the emergency vehicle.
+
+
+FTT_E_P2_Q15: When passing a parked vehicle, you should leave a safe gap of at least
+[ ] 0.3 metre between your vehicle and the parked vehicle.
+[ ] 0.5 metre between your vehicle and the parked vehicle.
+[x] 1.0 metre between your vehicle and the parked vehicle.
+
+
+FTT_E_P2_Q16: After you have driven through a flood, you should check
+[ ] Your lights.
+[x] Your brakes.
+[ ] Your tyres.
+
+
+FTT_E_P2_Q17: An automatic car has two foot pedals
+[ ] The brake and clutch pedals.
+[x] The accelerator and brake pedals.
+[ ] The clutch and accelerator pedals.
+
+
+FTT_E_P2_Q18: A basic rule when driving on an expressway is
+[ ] To use the lane that has least traffic.
+[x] To keep to the left lane unless overtaking.
+[ ] Always use the road shoulder.
+
+
+FTT_E_P2_Q19: lf you missed the exit on an expressway, you should
+[ ] Stop and wait for a chance to reverse back to the exit
+[x] Carry on driving to the next exit
+[ ] Reverse as quickly as possible so as not to create confusion
+
+
+FTT_E_P2_Q20: When you have completed changing up to the 5th gear, you should
+[ ] Depress the clutch pedal slightly.
+[ ] Rest your left foot on the clutch pedal.
+[x] Rest your left foot on the floor board.
+
+
+FTT_E_P2_Q21: To change gear, the correct way is to
+[x] Release the accelerator, depress the clutch and engage the gear.
+[ ] Depress the accelerator and the clutch together and engage the gear.
+[ ] Pump the clutch pedal a few times and engage the gear.
+
+
+FTT_E_P2_Q22: You should use the engine-brake when
+[x] Going down a long steep slope.
+[ ] Going up a steep hill.
+[ ] Driving on a level road.
+
+
+FTT_E_P2_Q23: When the clutch is fully depressed, it means that the power from the engine is
+[x] Not transmitted to the wheels.
+[ ] Transmitted to the wheels.
+[ ] Partially transmitted to the wheels.
+
+
+FTT_E_P2_Q24: To go round a mild bend with a steady speed, you should
+[ ] Use the ‘half-clutch' technique.
+[ ] Apply brakes.
+[x] Depress the accelerator slightly.
+
+
+FTT_E_P2_Q25: When you steer your car round a left hand bend, you should
+[ ] Slant your body to the left.
+[ ] Slant your body to the right.
+[x] Maintain normal driving posture.
+
+
+FTT_E_P2_Q26: While trying to move off on an incline (uphill) and the engine stalls, you should immediately
+[x] Step on the brake pedal.
+[ ] Reach for the ignition key and re-start the engine.
+[ ] Shift gear lever to neutral position.
+
+
+FTT_E_P2_Q27: When should you start to keep left after overtaking?
+[ ] As soon as you are ahead of the overtaken vehicle.
+[ ] When you can see the overtaken vehicle in your left wing mirror.
+[x] When you can see the overtaken vehicle in your rear view mirror inside the cabin.
+
+
+FTT_E_P2_Q28: When you want to reverse your car to your right, you should turn the steering wheel
+[x] To the right.
+[ ] To the left.
+[ ] First to the left then to the right.
+
+
+FTT_E_P2_Q29: You want to reverse into a side road. You are not sure that the area behind your vehicle is clear. What should you do?
+[ ] Carry on, assuming it is clear.
+[ ] Look through the rear window only.
+[x] Get out and check.
+
+
+FTT_E_P2_Q30: /f your left front tyre blows out, you should react by
+[ ] Steering to the left.
+[ ] Steering to the right.
+[x] Holding the steering wheel firmly.
+
+
+FTT_E_P2_Q31: Checking for punctured tyres is done
+[x] Daily before driving.
+[ ] Daily at the petrol kiosk.
+[ ] Only when you think is necessary.
+
+
+FTT_E_P2_Q32: When going round a bend, centrifugal force will cause your car to
+[ ] Slow down.
+[x] Swerve outwards.
+[ ] Swerve inwards.
+
+
+FTT_E_P2_Q33: 'The distance travelled’ from the moment 'the hazard’ is seen to the time ‘the brake’ is applied is known as the
+[ ] Stopping distance.
+[ ] Braking distance.
+[x] Reaction distance.
+
+
+FTT_E_P2_Q34: Free Wheeling
+[x] 1s dangerous when stopping at high speed.
+[ ] Will make it easier to round a sharp bend.
+[ ] Will make steering control easy.
+
+
+FTT_E_P2_Q35: At night, when approaching a sharp left bend you should
+[x] Flash your headlights to attract the attention of other road user.
+[ ] Speed up so as to pass the danger as quickly as possible.
+[ ] Keep more to the right to have a better view.
+
+
+FTT_E_P2_Q36: If the headlight of an oncoming vehicle is blinding you, you should
+[ ] Turn on the high beam.
+[ ] Look to the right kerb.
+[x] Look to the left kerb.
+
+
+FTT_E_P2_Q37: What action would you take when elderly people are crossing the road?
+[ ] Wave them across so they know that you have seen them.
+[x] Be patient and allow them to cross in their own time.
+[ ] Tap the horn in case they are hard of hearing.
+
+
+FTT_E_P2_Q38: When you see green traffic light signal from a distance, you should
+[ ] Speed up.
+[x] Slow down.
+[ ] Carry on at the same speed.
+
+
+FTT_E_P2_Q39: When approaching a zebra crossing, you should
+[ ] Accelerate to pass it.
+[x] Slow down and do not overtake.
+[ ] Stop only when there are pedestrians on the crossing.
+
+
+FTT_E_P2_Q40: When a large vehicle from the left lane moves into your path with its left signal on, you should
+[ ] Sound the horn to inform the driver of his mistakes.
+[x] Slow down and keep a safe following distance.
+[ ] Overtake the large vehicle on the left.
+
+
+FTT_E_P2_Q41: When can you use the right lane of a two-lane carriageway?
+[x] When your path of travel is obstructed by road works or parked vehicles.
+[ ] When your speed is higher that the speed limit for the road.
+[ ] When the right lane is free of traffic.
+
+
+FTT_E_P2_Q42: Pre-driving checks
+[x] Will reduce the chances of breakdown.
+[ ] Should be done only when the vehicle misfires.
+[ ] Are not necessary if it is a new vehicle.
+
+
+FTT_E_P2_Q43: Which of the following maintenance parts could cause an accident if the fluid level is low?
+[ ] Battery.
+[ ] Engine.
+[x] Brake reservoir.
+
+
+FTT_E_P2_Q44: If your car skids while braking, you should
+[ ] Step harder on the brake pedal.
+[x] Release the brake pedal and apply it again.
+[ ] Pull up the handbrake.
+
+
+FTT_E_P2_Q45: In the vicinity of a hospital, you should sound the horn
+[x] Only to warn other road users the danger of an accident.
+[ ] To let others know that you have the right of way.
+[ ] if another vehicle moved into your lane without signalling.
+
+
+FTT_E_P2_Q46: When your car breaks down on an expressway, you should
+[x] Move your car to the road shoulder.
+[ ] Leave your car on the expressway with the boot cover fully opened.
+[ ] Leave your car on the expressway with the bonnet fully opened.
+
+
+FTT_E_P2_Q47: What should you do if you see a cyclist riding against the flow of traffic towards you?
+[ ] Sound your horn to warn him of the danger.
+[x] Slow down and be ready to stop if necessary.
+[ ] Stop Immediately.
+
+
+FTT_E_P2_Q48: A cyclist with a heavy load is wobbling along the road, you should
+[ ] Drive closer to warn him it is dangerous.
+[x] Give him more space when passing.
+[ ] Not pass him at all.
+
+
+FTT_E_P2_Q49: Before making a lane change to your left, you must signal for at least 3 second and
+[ ] Use your vehicle brake lights to warn other road users.
+[ ] Use your vehicle hazard lights to warn other road users.
+[x] Check your blind spot before moving left.
+
+
+FTT_E_P2_Q50: Before turning right into a minor road, you should
+[x] Slow down or stop to give way to oncoming vehicles and pedestrians.
+[ ] Slow down and turn sharply.
+[ ] Not give way to oncoming vehicle.
+
+

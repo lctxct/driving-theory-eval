@@ -1,0 +1,300 @@
+FTT_E_P7_Q01: When driving pass a line of parked vehicles on the side of the road, you should
+[ ] Continue driving at the same speed.
+[x] Slow down and look out for pedestrians dashing out.
+[ ] Continue driving at the same speed and sound your horn.
+
+
+FTT_E_P7_Q02: When passing every side road, you should
+[ ] Stop before proceeding.
+[x] Check before driving pass them.
+[ ] Accelerate pass them.
+
+
+FTT_E_P7_Q03: When passing minor roads joining from the left and right, you should
+[ ] Speed up.
+[ ] Drive at normal speed.
+[x] Ease off the accelerator.
+
+
+FTT_E_P7_Q04: When your vehicle pulled strongly to one side while driving, you should
+[x] Grip the steering wheel firmly and pull up slowly to the side of the road.
+[ ] Apply the handbrake to stop the vehicle.
+[ ] Grip the steering wheel and continue on at a normal speed.
+
+
+FTT_E_P7_Q05: Which statement about steering is true?
+[x] You must keep both hands on the steering wheel at all times.
+[ ] You can place your hands at any position as long as you are comfortable.
+[ ] You should not take both hands off the steering wheel when the vehicle is moving.
+
+
+FTT_E_P7_Q06: What should you use the horn for?
+[ ] To signal your annoyance.
+[ ] To greet other road users.
+[x] To warn others of danger.
+
+
+FTT_E_P7_Q07: Are you permitted to make a U-turn at traffic lights?
+[x] No, unless there is a U-turn permitted sign at the intersection.
+[ ] Yes, at all times.
+[ ] Yes, if there is no danger of colliding with another vehicle.
+
+
+FTT_E_P7_Q08: When the car from the side road does not give way to you, you should
+[ ] Sound the horn to stop the car from coming out.
+[ ] Quickly switch to the right lane to pass the junction.
+[x] Slow down and allow the car to proceed.
+
+
+FTT_E_P7_Q09: When the oncoming car at the bend has gone across the centre white line on the road towards your direction, you should
+[ ] Sound the horn and flash your headlight to give warning.
+[x] Slow down and move over to the left side of the road.
+[ ] Brake hard and stop your car immediately.
+
+
+FTT_E_P7_Q10: If you failed to have a proper control of your vehicle, you could be charged for even though your blood alcohol content is below the legal limit.
+[ ] Careless driving.
+[x] Drink driving.
+[ ] Reckless driving.
+
+
+FTT_E_P7_Q11: Before changing lanes, you should check your blind spots by
+[ ] Looking into the rear view mirror.
+[x] Looking over your shoulder.
+[ ] Looking at the side mirrors.
+
+
+FTT_E_P7_Q12: The 'two-second rule’ is used in normal driving situation at
+[ ] Certain speed only.
+[x] All speed.
+[ ] Fixed speed only.
+
+
+FTT_E_P7_Q13: A new driver's licence will be revoked on accumulation of 13-demerit points
+[x] 12 months from the date of the grant of the licence.
+[ ] 18 months from the date of the grant of the licence.
+[ ] 24 months from the date of the grant of the licence.
+
+
+FTT_E_P7_Q14: What must you do when a police vehicle with its siren on is behind you?
+[ ] Continue to drive as normal.
+[x] Slow down and move to the side.
+[ ] Speed up.
+
+
+FTT_E_P7_Q15: One of the reasons for you to have an accident with the vehicle you are following is that you
+[x] Follow too closely to the vehicle in front.
+[ ] Follow the vehicle in front with too wide a gap.
+[ ] Suddenly slow down and stop.
+
+
+FTT_E_P7_Q16: If you are in doubt of the depth of flood water (whether passable to vehicles), you should
+[ ] Drive through slowly.
+[ ] Drive through as quickly as possible.
+[x] Take an alternative route.
+
+
+FTT_E_P7_Q17: When driving an automatic car, you would select a lower gear
+[x] To control speed when going down a steep hill.
+[ ] To slow the car down in normal driving.
+[ ] Before stopping.
+
+
+FTT_E_P7_Q18: When entering an expressway, you should
+[ ] Slow down to a speed suitable for joining the expressway.
+[x] Build up your speed to merge smoothly into the traffic stream.
+[ ] Slow down and stop if necessary before joining the expressway.
+
+
+FTT_E_P7_Q19: When joining the expressway, you should
+[ ] Always use the road shoulder.
+[x] Always give way to traffic already on the expressway.
+[ ] Stop at the end of the acceleration lane.
+
+
+FTT_E_P7_Q20: Under what circumstances you may not follow the ‘keep left rule’?
+[ ] When travelling at the maximum speed limit of the road.
+[ ] When traffic is light.
+[x] When your path is obstructed.
+
+
+FTT_E_P7_Q21: Using engine brake when travelling down slope would prevent
+[x] Over heating the brake linings.
+[ ] Your tyres from wearing out too soon.
+[ ] Damage to the brake system.
+
+
+FTT_E_P7_Q22: We should use engine-brake when travelling downhill because
+[x] The brake linings will not over-heat and fade.
+[ ] The engine is more durable than the brake linings.
+[ ] The gears are more durable than the brake linings.
+
+
+FTT_E_P7_Q23: What is the correct footwork when changing from 2nd gear to 3rd gear?
+[x] Release the accelerator pedal and depress the clutch pedal at the same time.
+[ ] Depress the accelerator and clutch together.
+[ ] Depress the clutch pedal while keeping the accelerator on hold.
+
+
+FTT_E_P7_Q24: Pushing the clutch pedal down
+[x] Releases the engine from the wheels.
+[ ] Engages the engine with the wheels.
+[ ] Stalls the engine.
+
+
+FTT_E_P7_Q25: To maintain a steady speed while negotiating a mild bend, you should
+[ ] Apply half-clutch.
+[ ] Apply brake lightly.
+[x] Depress the accelerator pedal lightly.
+
+
+FTT_E_P7_Q26: When driving down a slope, you should use
+[x] A lower gear.
+[ ] Higher gear.
+[ ] The neutral gear.
+
+
+FTT_E_P7_Q27: When driving down a steep slope
+[ ] Accelerate lightly to maintain a steady speed.
+[x] Change down to a lower gear to have better speed control.
+[ ] Engage the neutral gear and use the brakes to control the speed.
+
+
+FTT_E_P7_Q28: When a motorcyclist tries to overtake you on the left, you should
+[ ] Increase your speed to race the rider.
+[x] Reduce your speed and assist the rider to overtake safely.
+[ ] Ignore the rider and continue driving at your normal speed.
+
+
+FTT_E_P7_Q29: When reversing, good observation is important. You should look
+[ ] At the kerb and the side.
+[ ] Ahead and at the side.
+[x] Through the rear windscreen, where your car is going.
+
+
+FTT_E_P7_Q30: When you are about to reverse, you should
+[ ] Sound your horn to let others know that you are reversing your car.
+[x] Turn your head to look out for objects or persons at the rear of your car.
+[ ] Look at the rear view mirror only.
+
+
+FTT_E_P7_Q31: When a front tyre punctures, the vehicle will
+[ ] Stop suddenly.
+[x] Pull towards the side of the punctured tyre.
+[ ] Move faster.
+
+
+FTT_E_P7_Q32: The higher the speed when negotiating a bend, the outward push of the centrifugal force will be
+[ ] Smaller.
+[x] Greater.
+[ ] Unchanged.
+
+
+FTT_E_P7_Q33: The stopping distance of a vehicle comprises the
+[ ] Thinking distance and the reaction distance.
+[x] Reaction distance and the braking distance.
+[ ] Skidding distance and the braking distance.
+
+
+FTT_E_P7_Q34: To brake safely on a wet road, you should
+[ ] Apply both brakes together.
+[x] Apply intermittent (on/off) braking technique.
+[ ] Depress the clutch pedal first followed by the brake pedal.
+
+
+FTT_E_P7_Q35: When making an emergency stop, you should
+[x] Avoid braking too hard to prevent the wheels from locking.
+[ ] Step on the brake pedal as hard as possible.
+[ ] Apply both the foot-brake and the hand-brake together.
+
+
+FTT_E_P7_Q36: When driving at night, you should use
+[x] Dipped headlight.
+[ ] High beam.
+[ ] Side lights only.
+
+
+FTT_E_P7_Q37: When you see a child standing beside the road, you should
+[ ] Tap your horn to stop him from crossing.
+[ ] Stop immediately to allow him to cross.
+[x] Slow down and be ready to stop.
+
+
+FTT_E_P7_Q38: When the amber traffic light is flashing continuously, you should
+[x] Slow down and proceed with caution.
+[ ] Stop and wait for it to change to green.
+[ ] Drive through it quickly.
+
+
+FTT_E_P7_Q39: When the 'amber' traffic light signal is flashing, you should
+[ ] Carry on driving.
+[x] Slow down and look out for other vehicles before proceeding.
+[ ] Call the police.
+
+
+FTT_E_P7_Q40: When you approach a bus signalling to move off from a bus stop, you should
+[ ] Get past before it moves.
+[ ] Flash your headlights as you approach.
+[x] Allow it to pull away.
+
+
+FTT_E_P7_Q41: You are following a large lorry on a wet road. Spray makes it difficult to see, you should
+[ ] Put your headlights on high beam.
+[ ] Speed up and overtake quickly.
+[x] Drop back until you can see better.
+
+
+FTT_E_P7_Q42: When caught in a slow moving bumper to bumper rush hour traffic, you should
+[ ] Overtake all slow moving vehicles.
+[x] Be patient and follow the queue.
+[ ] Weave in and out of available spaces to move forward.
+
+
+FTT_E_P7_Q43: The brake system within a vehicle
+[ ] Requires little or no maintenance.
+[ ] May be ignored as long as the vehicle stops safely.
+[x] Neither of these.
+
+
+FTT_E_P7_Q44: In order to prevent skidding when stopping your vehicle on a wet road, you should
+[x] Use your brakes gently and early.
+[ ] Brake harder.
+[ ] Apply both the handbrake and foot brake together.
+
+
+FTT_E_P7_Q45: To prevent skidding when stopping your vehicle on a wet road, you should
+[ ] Depress the clutch pedal and apply the brake pedal early.
+[ ] Depress the brake pedal and apply the hand-brake together.
+[x] Apply intermittent braking technique.
+
+
+FTT_E_P7_Q46: When you have caused inconvenience to others, you should
+[ ] Just carry on driving as if nothing have happened.
+[x] Indicate you are sorry.
+[ ] Speed off quickly.
+
+
+FTT_E_P7_Q47: f your vehicle broke down on the expressway, you should
+[ ] Fix it on the spot.
+[ ] Move it to the extreme right lane.
+[x] Move it to the road shoulder.
+
+
+FTT_E_P7_Q48: When you see a young cyclist in front, you should
+[ ] Ride past it quickly.
+[x] Slow down and be prepared to stop.
+[ ] Maintain normal speed.
+
+
+FTT_E_P7_Q49: How should you signal when you want to stop just after a side road to the left?
+[ ] Give a slowing down arm signal before the junction.
+[x] Wait until you have passed the junction, then signal left.
+[ ] Signal left before the junction.
+
+
+FTT_E_P7_Q50: When in the car, you should ensure that the handbrake is on
+[ ] After you have started the engine.
+[x] Before you start the engine.
+[ ] While the car is moving.
+
+

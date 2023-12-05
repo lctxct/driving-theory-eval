@@ -1,0 +1,300 @@
+FTT_E_P6_Q01: When being glared or blinded by the sunlight, you should
+[ ] Use a cap or hat.
+[x] Use your sun visor or wear sun glasses.
+[ ] Look at the left kerb.
+
+
+FTT_E_P6_Q02: When driving a car you are not familiar with, you should check
+[ ] The light and brake.
+[ ] The steering.
+[x] All of the above.
+
+
+FTT_E_P6_Q03: When driving along, you should
+[ ] Stop at every junction before proceeding further.
+[ ] Accelerate to pass junctions quickly.
+[x] Check every side road before you pass them.
+
+
+FTT_E_P6_Q04: When turning left in a narrow course you should position your vehicle
+[x] More to the right.
+[ ] More to the left.
+[ ] In the centre of the course.
+
+
+FTT_E_P6_Q05: When you turn your steering to the right, which way do your wheels turn?
+[ ] To the left.
+[x] To the right.
+[ ] To the left then to the right.
+
+
+FTT_E_P6_Q06: The minimum legal insurance coverage required to drive on the road is
+[x] Third party risk.
+[ ] Thrid party risk, fire and theft.
+[ ] Fully comprehensive.
+
+
+FTT_E_P6_Q07: On weekdays, you are not allowed to use the bus lane in the evening from
+[ ] 4.00 pm to 7.00 pm.
+[x] 4.30 pm to 7.00 pm.
+[ ] 4.30 pm to 7.30 pm.
+
+
+FTT_E_P6_Q08: What is the main hazard shown in this scenario? (answer guessed....//TODO CHECK ANS KEY)
+[x] Cars turning right (A).
+[ ] Parked vehicle at the junction (B).
+[ ] The cyclist crossing the road (C).
+
+
+FTT_E_P6_Q09: When Car A is making a left turn, car B's left turn signal is on. What should car A do
+[ ] Move out slowly and turn.
+[ ] Turn immediately.
+[x] Wait until Car B has turned left
+
+
+FTT_E_P6_Q10: Generally a small amount of alcohol can make you less safe on the road.
+[x] True.
+[ ] False.
+[ ] Not true, if you were an experience driver.
+
+
+FTT_E_P6_Q11: In order to avoid an accident with the vehicle in front while driving under normal conditions you should use the
+[x] Two-second rule.
+[ ] Four-second rule.
+[ ] Two metre rule.
+
+
+FTT_E_P6_Q12: If you accumulate 13 or more demerit points within a year of passing the test
+[ ] You have to pay a heavy fine.
+[x] Your licence will be revoked.
+[ ] Your 'probation' period will be extended.
+
+
+FTT_E_P6_Q13: On a one way street, you hear the siren of an emergency vehicle behind you, you should
+[ ] Give way by moving to the left only.
+[x] Give way by moving to the left or right.
+[ ] Stop immediately.
+
+
+FTT_E_P6_Q14: The term ‘Tailgating’ means
+[ ] Reversing into a vertical parking lot.
+[x] The dangerous practice of following another vehicle too closely.
+[ ] Parking at the tail end of the gate or entrance.
+
+
+FTT_E_P6_Q15: On rainy day, you should
+[ ] Drive at a normal speed.
+[ ] Drive as close as possible to the vehicle in front.
+[x] Reduce your speed and keep a longer following distance from the front vehicle.
+
+
+FTT_E_P6_Q16: In which position should the gear selector be when you are starting the engine?
+[ ] 1st gear.
+[x] Park.
+[ ] Drive.
+
+
+FTT_E_P6_Q17: To drive within the speed limit on an expressway, you should
+[ ] Drive slower than vehicles on your left or right.
+[x] Glance at your speedometer at regular intervals.
+[ ] Not overtake other vehicles.
+
+
+FTT_E_P6_Q18: What is the name of the lane in which you adjust your speed before joining the expressway?
+[ ] The road shoulder.
+[ ] The deceleration lane.
+[x] The acceleration lane.
+
+
+FTT_E_P6_Q19: To maintain good lane discipline, you should
+[x] Form up correctly into the intended lane before reaching the junction.
+[ ] Drive between lanes so that you can switch lane easily.
+[ ] Follow closely to the vehicle in front.
+
+
+FTT_E_P6_Q20: Less braking effort is required when you stop your vehicle using
+[x] 2nd gear.
+[ ] 3rd gear.
+[ ] 4th gear.
+
+
+FTT_E_P6_Q21: To assist braking when you are travelling downhill, you should use
+[ ] The foot brake only.
+[ ] The foot and handbrakes.
+[x] The foot brake and engine brake.
+
+
+FTT_E_P6_Q22: Using engine brake when travelling down slope would prevent
+[x] Over heating the brake linings.
+[ ] Your tyres from wearing out too soon.
+[ ] Damage to the brake system.
+
+
+FTT_E_P6_Q23: On and off clutch technique should be used
+[ ] While driving at high speed.
+[x] While negotiating a narrow and winding path.
+[ ] While descending a slope.
+
+
+FTT_E_P6_Q24: To have a better view when entering a right hand bend, you should keep
+[ ] Close to the centre line.
+[ ] To the middle of the road.
+[x] Close to the left edge of the road.
+
+
+FTT_E_P6_Q25: Moving off on a slope involves co-ordinating the
+[ ] Clutch, foot-brake and accelerator pedals.
+[ ] Gear, accelerator and clutch pedals.
+[x] Handbrake, clutch and accelerator pedals.
+
+
+FTT_E_P6_Q26: To control the speed of your vehicle when going down a steep hill, you should
+[ ] Use the foot-brake and handbrake.
+[x] Select a lower gear and use the foot-brake.
+[ ] Free the gear and use the foot-brake.
+
+
+FTT_E_P6_Q27: To drive in a way where other drivers will not find it necessary to overtake you, you should
+[ ] Drive on the extreme right lane all the time.
+[x] Always drive at a speed that match the traffic flow.
+[ ] Drive at the maximun speed limit of the road all the time.
+
+
+FTT_E_P6_Q28: When reversing
+[ ] Other road users should see what you are doing and wait for you.
+[ ] You should rely on your rear view mirrors only.
+[x] You should avoid making other road users to slow down or change course.
+
+
+FTT_E_P6_Q29: When reversing slowly, you should use
+[ ] Free wheeling technique.
+[x] Connecting and disconnecting clutch technique.
+[ ] Intermittent braking technique.
+
+
+FTT_E_P6_Q30: What can cause heavy steering?
+[ ] Badly worn brakes.
+[ ] Over-inflated tyres.
+[x] Under-inflated tyres.
+
+
+FTT_E_P6_Q31: The centrifugal force affects
+[x] All vehicles.
+[ ] Motorcycles only.
+[ ] Heavy vehicles only.
+
+
+FTT_E_P6_Q32: To apply intermittent braking, you should depress the brake pedal
+[ ] All the way down.
+[x] 2 or3 times at short intervals before stopping the vehicle.
+[ ] And clutch together.
+
+
+FTT_E_P6_Q33: A vehicle loaded with goods
+[x] Requires a longer braking distance than if it were without goods.
+[ ] Does not require a longer braking distance.
+[ ] Brakes normally.
+
+
+FTT_E_P6_Q34: When making an emergency stop, you should
+[x] Keep both hands firmly on the steering wheel.
+[ ] keep both hands lightly on the steering wheel.
+[ ] Hold the steering wheel with one hand and pull the handbrake with the other hand.
+
+
+FTT_E_P6_Q35: When driving at night, dip your headlights
+[ ] To light up the road immediately in front you.
+[x] So as not to dazzle drivers of oncoming vehicles.
+[ ] To prolong the life of the car battery.
+
+
+FTT_E_P6_Q36: When will a child becomes an actual road hazard?
+[ ] When the child is walking by the side of the road.
+[ ] When the child is playing by the side of the road.
+[x] When the child playing with a ball suddenly kicked the ball onto the road.
+
+
+FTT_E_P6_Q37: When approaching a junction and the traffic lights signal change from green to amber, you should
+[x] Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident.
+[ ] Speed up to clear the intersection.
+[ ] Stop only if a red light camera is in use.
+
+
+FTT_E_P6_Q38: When approaching a traffic light signal that has turned to amber, you should
+[ ] Speed up.
+[ ] Maintain your speed.
+[x] Slow down and stop.
+
+
+FTT_E_P6_Q39: When a long vehicle makes a U-turn, it usually moves to the
+[x] Left before turning.
+[ ] Right before turning.
+[ ] Right then left before turning.
+
+
+FTT_E_P6_Q40: When following behind a large vehicle at traffic light junctions, you should
+[ ] Keep a normal following distance.
+[ ] Follow closely.
+[x] Keep a longer following distance to have a better view ahead.
+
+
+FTT_E_P6_Q41: When you are caught in a traffic jam, you should
+[ ] Keep close to the vehicle in front.
+[ ] Move to lane with a shorter queue.
+[x] Stay in your own lane.
+
+
+FTT_E_P6_Q42: How often should you test your brakes?
+[x] Daily.
+[ ] Weekly.
+[ ] Monthly.
+
+
+FTT_E_P6_Q43: When you are involved in an accident, you should
+[x] Stop.
+[ ] Stop only when there is injury.
+[ ] Not stop when there is no injury.
+
+
+FTT_E_P6_Q44: How can you prevent 'aquaplaning' occuring?
+[ ] Speed up.
+[x] Slow down.
+[ ] Drive at normal speed.
+
+
+FTT_E_P6_Q45: When a driver causes inconvenience to you, you should
+[ ] Show a provocative gesture.
+[ ] Use aggressive language.
+[x] Keep calm.
+
+
+FTT_E_P6_Q46: Driving on the road shoulder of an expressway is
+[x] An offence.
+[ ] Allowed if you are turning left.
+[ ] Allowed if there is a traffic jam.
+
+
+FTT_E_P6_Q47: When you are overtaking a cyclist, you should leave as much space as you would give a car. What is the main reason for this?
+[ ] The cyclist might get off the bike.
+[ ] The cyclist might stop suddenly.
+[x] The cyclist might swerve.
+
+
+FTT_E_P6_Q48: How should you signal to let others know of your intention?
+[ ] At least 2 seconds in advance.
+[x] At least 3 seconds in advance.
+[ ] At least 5 seconds in advance.
+
+
+FTT_E_P6_Q49: To move off safely from a parked position, you should
+[ ] Signal your intention and move off.
+[ ] Look right, left and right again.
+[x] Check mirrors, give signal, look around to check traffic or pedestrians.
+
+
+FTT_E_P6_Q50: When making a turn, you should slow down
+[ ] During the turn.
+[ ] After the turn.
+[x] Before the turn.
+
+

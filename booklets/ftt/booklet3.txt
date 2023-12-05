@@ -1,0 +1,300 @@
+FTT_E_P3_Q01: If the foot-brake pedal moves all the way to the floor, it is a sign that the foot-brake
+[ ] Is working.
+[x] May be faulty.
+[ ] fs normal.
+
+
+FTT_E_P3_Q02: if the medicines prescribe by the doctor are likely to affect your driving, you should
+[ ] Drive only if someone is with you.
+[x] Not to drive yourself.
+[ ] Avoid driving on the expressway..
+
+
+FTT_E_P3_Q03: if you are feeling very tired and sleepy whilst driving on an expressway, you should
+[x] Make an exit and stop at a safe place to rest.
+[ ] Stop at the road shoulder to rest.
+[ ] Switch on hazard lights and drive slowly along the road shoulder.
+
+
+FTT_E_P3_Q04: Before making a left turn in a narrow course, you should position your car
+[ ] More to the left.
+[x] More to the right.
+[ ] At the centre of the course.
+
+
+FTT_E_P3_Q05: If you see an oily patch on the road, you should
+[ ] Slow down.
+[ ] Speed up.
+[x] Avoid it if possible.
+
+
+FTT_E_P3_Q06: Some of the common vehicle defects that can cause accidents are
+[ ] Faulty seat belts, seats, child restraint and alarm system.
+[x] Faulty tyres, brakes, shock absorbers and windscreen wipers.
+[ ] Dull paint, dented bumpers and old seats.
+
+
+FTT_E_P3_Q07: During weekdays (Monday to Friday) in the morning, vehicles other than omnibuses are not allowed to enter the bus lane from
+[ ] 7.00 am to 9.00 am.
+[ ] 7.00 am to 9.30 am.
+[x] 7.30 am to 9.30 am.
+
+
+FTT_E_P3_Q08: Before turning right at this intersection, you should
+[x] Stop to ensure safety.
+[ ] Wait for the green traffic signal light to come on.
+[ ] Not to stop or wait for the oreen traffic signal liaht to come on.
+
+
+FTT_E_P3_Q09: Both cars are turning right at this intersection. What path should they take?
+[x] Both cars pass in front of each other.
+[ ] Pass behind each other.
+[ ] Choose either denendina on the traffic flow
+
+
+FTT_E_P3_Q10: A person will be disqualified from driving if he is caught
+[x] Driving with a blood alcohol concentration over 80 mg of alcohol/100m! of blood.
+[ ] Failing to obey a 'Stop' traffic sign.
+[ ] Failing to give way to an ambulance with its siren on.
+
+
+FTT_E_P3_Q11: The Two-second Rule is a simple check to ensure
+[ ] A safe distance for you to move off from a junction.
+[x] A safe distance between your vehicle and the vehicle in front.
+[ ] A safe length of time to signal before your manoeuvre.
+
+
+FTT_E_P3_Q12: A driver with more than a year experience will be suspended from driving if within a period of 24 months, he has accumulated
+[ ] 12 demerit points.
+[ ] 16 demerit points.
+[x] 24 demerit points.
+
+
+FTT_E_P3_Q13: A qualified driver with more than 1 year driving experience will be suspended from driving if the has accumulated
+[ ] 12 demerit points within 12 months.
+[x] 24 demerit points within 24 months.
+[ ] 36 demerits points within 36 months.
+
+
+FTT_E_P3_Q14: You should give way to emergency vehicles approaching from behind by
+[ ] Slowing down.
+[x] Moving to the side.
+[ ] Driving faster.
+
+
+FTT_E_P3_Q15: When pedestrians are facing traffic on a road without pavement, vehicle should keep a gap of at least
+[ ] 0.5 metre from the pedestrian.
+[ ] 0.75 metre from the pedestrian.
+[x] 1 metre from the pedestrian.
+
+
+FTT_E_P3_Q16: After your vehicle passed through a flood, you should
+[ ] Stop on a slope to drain water out of the brakes.
+[ ] Drive faster to allow the brakes to dry quickly.
+[x] Apply intermittent braking to dry the brake drums at low speed.
+
+
+FTT_E_P3_Q17: As you approach a bend, an automatic car will sometimes ‘change up’ because there is less pressure on the accelerator. To prevent this happening, you should
+[x] Slow down before the bend and accelerate gently as you turn.
+[ ] Brake as you go round the bend.
+[ ] Brake and accelerate at the same time.
+
+
+FTT_E_P3_Q18: On a three-lane expressway which lane should you normally use?
+[x] Left.
+[ ] Right.
+[ ] Centre.
+
+
+FTT_E_P3_Q19: On an expressway with more than two lanes, the extreme right lane is for
+[ ] Fast moving vehicles only.
+[x] Overtaking.
+[ ] Vehicles travelling at the maximum speed limit of the road.
+
+
+FTT_E_P3_Q20: When you use engine-brake with the 3rd gear, its effectiveness will be
+[ ] Greater than with the 2nd gear.
+[ ] The same as with the 2nd gear.
+[x] Lesser than with the 2nd gear.
+
+
+FTT_E_P3_Q21: It is better to use engine-brake rather than foot-brake when driving down a long steep slope because
+[x] The brake linings will not overheat.
+[ ] You will save petrol.
+[ ] Your battery will last longer.
+
+
+FTT_E_P3_Q22: When you want to make a left turn, you should slow down and change to 3rd or 2nd gear
+[x] Before you begin the turn.
+[ ] While you are turning.
+[ ] After turning.
+
+
+FTT_E_P3_Q23: Which of the following actions can cause the engine to stall?
+[ ] A sudden release of the brake pedal.
+[ ] A sudden release of the handbrake.
+[x] A sudden release of the clutch.
+
+
+FTT_E_P3_Q24: After going round a gradual bend, you should increase your acceleration
+[ ] Before the steering wheel returns to its straight-ahead position.
+[x] As the steering wheel is returning to its straight-ahead position.
+[ ] After the steering wheel has returned to its straight-ahead position.
+
+
+FTT_E_P3_Q25: In order to have a better view while entering a sharp right hand bend as shown in the scenario, you should position your car
+[x] Close to the left of the road.
+[ ] dn the middle of your lane.
+[ ] Close to the centre line
+
+
+FTT_E_P3_Q26: After parking your car on the downward slope, you should
+[ ] Engage the 1st gear.
+[x] Engage the reverse gear.
+[ ] Shift the gear to neutral.
+
+
+FTT_E_P3_Q27: Before overtaking another vehicle, you should signal for at least
+[x] Three seconds.
+[ ] Five seconds.
+[ ] Seven seconds.
+
+
+FTT_E_P3_Q28: As you steer (reverse) your vehicle into the parking space, the front of the car will
+[ ] Swing in.
+[x] Swing out.
+[ ] Remain the same.
+
+
+FTT_E_P3_Q29: When you are reversing into the parking lot, the front part of your car swings out, you should
+[x] Look out for other traffic including cyclists and pedestrians.
+[ ] Look behind only.
+[ ] Look at the side mirrors,
+
+
+FTT_E_P3_Q30: Driving with under-inflated tyres can affect
+[ ] Engine temperature.
+[x] Braking.
+[ ] Oil pressure.
+
+
+FTT_E_P3_Q31: Incorrect tyre pressure will affect
+[ ] Oil pressure.
+[x] Steering and braking.
+[ ] Changing gear.
+
+
+FTT_E_P3_Q32: To reduce centrifugal force while going round a sharp bend, you should
+[ ] Not change the speed.
+[ ] Drive faster.
+[x] Drive slower.
+
+
+FTT_E_P3_Q33: Using intermittent (on/off) braking to stop a car will
+[x] Give repeated signals to vehicles behind.
+[ ] Confuse other drivers,
+[ ] Reduce the braking effect.
+
+
+FTT_E_P3_Q34: When applying an emergency stop, you should
+[x] Avoid braking too hard to prevent the wheels from locking.
+[ ] Brake hard to lock the wheels so that it can stop faster.
+[ ] Apply the clutch before the engine stall.
+
+
+FTT_E_P3_Q35: At night you should switch on your headlights from
+[ ] 6 pm to 7 am.
+[ ] 7 pm to 6 am.
+[x] 7pm to 7am.
+
+
+FTT_E_P3_Q36: In which situation should you switch on the high beam?
+[ ] When driving on a bumpy road.
+[ ] When there are oncoming vehicles.
+[x] When the road is poorly lighted and there is no traffic ahead.
+
+
+FTT_E_P3_Q37: When approaching a pedestrian with the back facing you, you should keep a gap of at least
+[ ] 2 metres from him.
+[x] 1.5 metres from him.
+[ ] 1 metre from him.
+
+
+FTT_E_P3_Q38: When approaching a traffic light junction with the amber light flashing, you should
+[x] Slow down and proceed across the junction only when it is safe to do so.
+[ ] Speed up in order to pass the junction before the light changes.
+[ ] Stop at the stop-line and wait for the light to change.
+
+
+FTT_E_P3_Q39: When the vehicle in front slows down before a pedestrian crossing, you should
+[ ] Sound the horn and overtake it.
+[x] Slow down and be prepared to stop.
+[ ] Follow closely behind it.
+
+
+FTT_E_P3_Q40: When a long vehicle makes a left turn, it usually moves to the
+[ ] Left before turning.
+[x] Right before turning.
+[ ] Left then right before turning.
+
+
+FTT_E_P3_Q41: You may drive along the right-most lane when
+[ ] You are travelling at the speed limits.
+[ ] The traffic is not heavy.
+[x] You are overtaking another vehicle.
+
+
+FTT_E_P3_Q42: To cool an over-heated engine, you should switch off the engine and
+[ ] Open the radiator tank cap immediately.
+[x] Wait for the engine to cool by itself.
+[ ] Pour water on the engine.
+
+
+FTT_E_P3_Q43: In an accident where there is no injury, you should
+[ ] Not move your vehicle.
+[ ] Wait for the police to arrive.
+[x] Move your vehicle to the side of the road.
+
+
+FTT_E_P3_Q44: To prevent skidding when stopping on a slippery road, you should
+[ ] Press hard on the foot-brake.
+[ ] Apply the foot-brake and the handbrake together.
+[x] ‘Step on your foot-brake in an on/off manner.
+
+
+FTT_E_P3_Q45: When driving through puddles of water on the road, you should
+[ ] Drive faster.
+[x] Drive slower.
+[ ] Not change speed.
+
+
+FTT_E_P3_Q46: The road shoulder of the expressway is meant for
+[x] Breakdown vehicles.
+[ ] Overtaking.
+[ ] Waiting.
+
+
+FTT_E_P3_Q47: At road junctions which of the following are most vulnerable?
+[x] Cyclist, pedestrians and motorcyclists.
+[ ] Car drivers.
+[ ] Lorry driviers.
+
+
+FTT_E_P3_Q48: lf a cyclist is travelling in an unsteady manner ahead, you should
+[ ] Refrain from overtaking the cyclist.
+[x] Give yourself more time in overtaking the cyclist.
+[ ] Overtake the cyclist quickly and quietly.
+
+
+FTT_E_P3_Q49: The side mirrors should be adjusted so that
+[x] Part of the car body can be seen in the mirror.
+[ ] No part of the car body can be seen in the mirror.
+[ ] The mirror forms an angle of 45 degree with the car body.
+
+
+FTT_E_P3_Q50: Before turning, you need to signal and
+[ ] Check your side mirrors only.
+[x] Check your mirrors, as well as blind spots.
+[ ] Use your brake lights to warn other road users.
+
+

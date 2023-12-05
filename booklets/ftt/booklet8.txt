@@ -1,0 +1,300 @@
+FTT_E_P8_Q01: When driving past a line of parked cars, you notice a ball bouncing out into the road ahead, you should
+[ ] Continue driving at the same speed and sound your horn.
+[x] Slow down and be prepared to stop for children.
+[ ] Speed up quickly to pass the ball.
+
+
+FTT_E_P8_Q02: When you see a police officer controlling traffic at a junction, you should
+[ ] Ignore him.
+[x] Obey his hand signals.
+[ ] Obey the traffic light signals.
+
+
+FTT_E_P8_Q03: Where should you take particular care to look out for other motorcyclists and cyclists?
+[x] At junctions.
+[ ] At pedestrian crossings.
+[ ] On one-way streets.
+
+
+FTT_E_P8_Q04: While driving you should hold the steering wheel at
+[x] Ten-to-two' position.
+[ ] Any position.
+[ ] The most comfortable position.
+
+
+FTT_E_P8_Q05: What will reduce the risk of neck injury resulting from a collision?
+[ ] Anti-lock brakes.
+[ ] A collapsible steering wheel.
+[x] A properly adjusted head restraint.
+
+
+FTT_E_P8_Q06: What could be the penalties for driving over the speed limit?
+[x] Fines, demerit points and possibly loss of driving licence.
+[ ] Fines only.
+[ ] A letter of warning and fines.
+
+
+FTT_E_P8_Q07: When approaching this junction, you should
+[ ] Turn left only.
+[x] Either go straight or turn left.
+[ ] Go straight and turn left or right.
+
+
+FTT_E_P8_Q08: When you approach this junction, you should
+[ ] Turn right.
+[x] Stop, check and turn left only.
+[ ] Need not ston if no oncomina traffic.
+
+
+FTT_E_P8_Q09: Drink driving can contribute to accidents because
+[x] Drivers' judgement is impaired.
+[ ] Drivers take shorter time to react.
+[ ] Drivers' vision is improved.
+
+
+FTT_E_P8_Q10: Which of the following sentences is TRUE?
+[ ] Alcohol makes you a better driver.
+[ ] Alcohol has no effect on the way you drive.
+[x] Alcohol slows down your reactions when driving.
+
+
+FTT_E_P8_Q11: ‘Blind spots’ of a vehicle is an area which cannot be viewed by
+[ ] The rear view mirror.
+[ ] Left and right wings mirrors.
+[x] Both A and B.
+
+
+FTT_E_P8_Q12: In order to avoid an accident with the vehicle in front while driving under normal condition, you should use the
+[x] Two-second rule.
+[ ] Four-second rule.
+[ ] Two metres rule.
+
+
+FTT_E_P8_Q13: lf you have 13 or more demerit points within a year of passing the test you will
+[ ] Be suspended for 6 months.
+[ ] Be suspended for 1 year.
+[x] Have your licence revoked.
+
+
+FTT_E_P8_Q14: When being followed by a police vehicle with its siren on, you should
+[ ] Accelerate quickly to get away from it.
+[x] Pull over safely, as soon as possible to let it pass.
+[ ] Brake quickly and stop to let it pass.
+
+
+FTT_E_P8_Q15: The most likely reason for the vehicle from behind to hit you is that
+[ ] It has bald tyres.
+[x] It follows too closely behind you.
+[ ] The driver is still under probation.
+
+
+FTT_E_P8_Q16: To drive through a flood, you should increase acceleration and
+[x] Change to a lower gear.
+[ ] Change to a higher gear.
+[ ] Apply half clutch.
+
+
+FTT_E_P8_Q17: When driving an automatic car, you would select a lower gear
+[ ] To slow the car down in normal driving.
+[x] When going uphill.
+[ ] Before stopping.
+
+
+FTT_E_P8_Q18: When leaving the expressway, you should
+[ ] Always use the road shoulder.
+[ ] Come to a stop before leaving the expressway.
+[x] Move to the left lane well before the exit.
+
+
+FTT_E_P8_Q19: When travelling on the expressway, you should
+[ ] Overtake other vehicles by the extreme left lane.
+[ ] Keep to the extreme right lane.
+[x] Refrain from using the extreme right lane.
+
+
+FTT_E_P8_Q20: When driving along a two-way street, you should
+[ ] Always keep near the centre line of the road.
+[x] Not cross the centre line at bends.
+[ ] Not overtake at all times.
+
+
+FTT_E_P8_Q21: When making a 'U' turn, which gear would you most likely use?
+[x] 1st or 2nd gear.
+[ ] 3rd or 4th gear.
+[ ] 5th gear.
+
+
+FTT_E_P8_Q22: When the clutch pedal is depressed
+[ ] Engine brake is effective.
+[x] Engine brake is not effective.
+[ ] Engine will stall.
+
+
+FTT_E_P8_Q23: When the engine is producing a knocking sound, it means
+[x] The vehicle is going too slow for the gear in use.
+[ ] The clutch is depress.
+[ ] The clutch is in the half clutch position.
+
+
+FTT_E_P8_Q24: The clutch pedal is to
+[ ] Increase or decrease the engine's speed.
+[ ] Control the direction in which you want to travel.
+[x] Enable you to make or break contact between the engine and the wheels.
+
+
+FTT_E_P8_Q25: If you turn too early when steering around a corner, you risk
+[x] Striking the kerb when turning left.
+[ ] Swinging wide on left turns.
+[ ] Overshooting right turns.
+
+
+FTT_E_P8_Q26: When going down a steep hill, you should select
+[x] Low gear.
+[ ] High gear.
+[ ] Free gear.
+
+
+FTT_E_P8_Q27: When going down slope, which of the followings will you apply?
+[ ] Intermittent braking.
+[ ] Foot-brake all the way down.
+[x] Engine brake and foot-brake.
+
+
+FTT_E_P8_Q28: When another vehicle is overtaking you, you should
+[x] Not speed up but assist him to overtake.
+[ ] Change lane and keep to the right.
+[ ] Increase your speed gradually.
+
+
+FTT_E_P8_Q29: When you are reversing to the right, you should turn your steering wheel
+[ ] To the left.
+[x] To the right.
+[ ] First to the left and then to the right.
+
+
+FTT_E_P8_Q30: Which of these statements about reversing is correct?
+[ ] You should reverse as quickly as possible.
+[x] Reversing should always be carried out at a very slow speed.
+[ ] The car's steering responds the same as when going forward.
+
+
+FTT_E_P8_Q31: When stopping your vehicle suddenly on a wet road, good tyres
+[ ] Will not skid.
+[ ] Will not aquaplanning.
+[x] May also skid.
+
+
+FTT_E_P8_Q32: To counter the centrifugal force when negotiating a sharp bend, you should
+[ ] Increase speed.
+[x] Reduce speed.
+[ ] Remain at the same speed.
+
+
+FTT_E_P8_Q33: Using intermittent braking while stopping your vehicle will
+[ ] Save fuel.
+[x] Give sufficient warning to motorists behind of your stopping.
+[ ] Prevent tyre wear.
+
+
+FTT_E_P8_Q34: Free Wheeling will allow your vehicle
+[ ] To stop abruptly.
+[ ] To negotiate a bend easily.
+[x] To go faster than desired.
+
+
+FTT_E_P8_Q35: When making an emergency stop, you should depress the
+[x] Brake pedal first followed by the clutch pedal.
+[ ] Clutch pedal first followed by the brake pedal.
+[ ] Brake pedal and the clutch pedal together.
+
+
+FTT_E_P8_Q36: When facing oncoming traffic at night, which lights should you use?
+[x] Dipped headlights.
+[ ] High beam headlights.
+[ ] Spot lights.
+
+
+FTT_E_P8_Q37: When you see children standing by the side of the road, you should
+[ ] Maintain your normal speed.
+[x] Slow down and be prepared to stop if necessary.
+[ ] Speed pass them.
+
+
+FTT_E_P8_Q38: When the traffic light signal turns ‘green’, you should check
+[ ] For oncoming traffic before moving off.
+[x] For oncoming traffic and traffic from the right and left before moving off.
+[ ] The rear view mirror before moving off.
+
+
+FTT_E_P8_Q39: When the traffic lights signal turns amber and you have already passed the stop line you should,
+[ ] Stop and reverse back to the stop line.
+[x] Continue to drive through the junction.
+[ ] Stop immediately.
+
+
+FTT_E_P8_Q40: You are following a large vehicle which is going to turn left into a narrow road. What action should you take?
+[ ] Move out and overtake on the right.
+[ ] Pass on the left as the vehicle moves out.
+[x] Be prepared to stop behind.
+
+
+FTT_E_P8_Q41: Road hogging
+[ ] Ensures a smoother flow of traffic.
+[x] Causes other vehicles to overtake dangerously on the left.
+[ ] Causes other vehicles to overtake on the right.
+
+
+FTT_E_P8_Q42: When you are caught in a traffic jam on an expressway, you should
+[ ] Use the road shoulder to move in front.
+[ ] Weave in and out of traffic to get in front.
+[x] Stay in your lane until traffic flow resumes.
+
+
+FTT_E_P8_Q43: What should you do if your brakes were slack or spongy?
+[ ] Ignore them as long as it is effective.
+[x] Get them checked as soon as possible.
+[ ] Pumps the brake before stopping.
+
+
+FTT_E_P8_Q44: To stop your vehicle safely on a wet road, you should
+[ ] Apply the foot brake followed by the hand brake.
+[x] Use your brakes gently and early.
+[ ] Use engine brake only.
+
+
+FTT_E_P8_Q45: What can cause your tyres to skid and lose their grip on the road surface?
+[x] Heavy braking.
+[ ] Looking over your shoulder.
+[ ] Giving hand signals.
+
+
+FTT_E_P8_Q46: You are following learners who stalls at a junction. You should
+[ ] Stay very close behind and flash your headlights.
+[x] Be patient as you expect them to make mistakes.
+[ ] immediately overtake them.
+
+
+FTT_E_P8_Q47: On the expressway, you may ONLY stop on the road shoulder
+[ ] if you feel tired and need to rest.
+[ ] To pick up passengers.
+[x] In an emergency.
+
+
+FTT_E_P8_Q48: You are following a cyclist on an uneven road. You should
+[ ] Overtake immediately.
+[x] Allow extra room in case they swerve to avoid pot-holes.
+[ ] Follow closely so you can be seen in their mirrors.
+
+
+FTT_E_P8_Q49: You give road signals in order to
+[ ] Help other car drivers only.
+[ ] Warn heavy vehicles only.
+[x] Warn and help all road users including pedestrians.
+
+
+FTT_E_P8_Q50: When moving off from a stationary position, what must you do first?
+[x] Check the road in front and behind you.
+[ ] Move off then check for traffic on the right.
+[ ] Tap the horn to warn other road users.
+
+
