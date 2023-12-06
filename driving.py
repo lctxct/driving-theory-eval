@@ -153,7 +153,6 @@ class Menu(App):
                 for i in range(1, 11):
                     filename = f"booklets/ftt/booklet{i}.txt"
                     lines += [line.strip() for line in open(filename)]
-                # assert False, lines
             case 1:  # shuffle
                 for i in range(1, 11):
                     filename = f"booklets/ftt/booklet{i}.txt"
@@ -180,11 +179,11 @@ class Menu(App):
             qns.append(Question(q, ans, img))
 
         match self.test_select:
-            case 11:  # all 
+            case 0:  # all 
                 shuffle(qns)
-            case 10:
+            case 1:
                 shuffle(qns)
-                qns[:50]
+                qns = qns[:50]
         
         return name, qns
 
