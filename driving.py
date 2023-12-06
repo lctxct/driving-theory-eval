@@ -137,7 +137,7 @@ class Menu(App):
         
         if self.test_select == -1:
             # default to ALL 
-            self.test_select = len(self.booklets) - 1
+            self.test_select = 0
 
         return self.stage_select != -1 and self.test_select != -1
         
