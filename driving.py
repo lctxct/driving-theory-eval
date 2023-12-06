@@ -373,7 +373,6 @@ class Result(App):
         msg1 = f"YOU SCORED {self.score}/{self.total}"
         msg2 = f"WHICH IS {ratio*100}%"
 
-
         self.stdscr.addstr(height//2-1, (width-len(msg1))//2, msg1)
         self.stdscr.addstr(height//2, (width-len(msg2))//2, msg2)
         if ratio >= 0.9:
@@ -413,13 +412,12 @@ def main(stdscr):
             break 
 
         if height < 23 or width < 103:
-            # Display warning message if screen size is too small
             warn1 = f"WARNING: ({height}, {width}) IS TOO SMALL"
             warn2 = "PLEASE RESIZE TO (23, 103)"
             stdscr.addstr(height // 2, (width - len(warn1)) // 2, warn1, curses.color_pair(1))
             stdscr.addstr(height // 2+1, (width - len(warn2)) // 2, warn2, curses.color_pair(1))
             stdscr.refresh()
-            key = stdscr.getch()  # Wait for user input
+            key = stdscr.getch()  # wait for user input
             if key == 27:  # esc
                 break
             continue
