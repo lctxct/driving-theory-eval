@@ -1,16 +1,16 @@
 FTT_E_P3_Q01: If the foot-brake pedal moves all the way to the floor, it is a sign that the foot-brake
 [ ] Is working.
 [x] May be faulty.
-[ ] fs normal.
+[ ] Is normal.
 
 
-FTT_E_P3_Q02: if the medicines prescribe by the doctor are likely to affect your driving, you should
+FTT_E_P3_Q02: If the medicines prescribe by the doctor are likely to affect your driving, you should
 [ ] Drive only if someone is with you.
 [x] Not to drive yourself.
-[ ] Avoid driving on the expressway..
+[ ] Avoid driving on the expressway.
 
 
-FTT_E_P3_Q03: if you are feeling very tired and sleepy whilst driving on an expressway, you should
+FTT_E_P3_Q03: If you are feeling very tired and sleepy whilst driving on an expressway, you should
 [x] Make an exit and stop at a safe place to rest.
 [ ] Stop at the road shoulder to rest.
 [ ] Switch on hazard lights and drive slowly along the road shoulder.
@@ -49,11 +49,11 @@ FTT_E_P3_Q08: Before turning right at this intersection, you should
 FTT_E_P3_Q09: Both cars are turning right at this intersection. What path should they take?
 [x] Both cars pass in front of each other.
 [ ] Pass behind each other.
-[ ] Choose either denendina on the traffic flow
+[ ] Choose either depending on the traffic flow.
 
 
 FTT_E_P3_Q10: A person will be disqualified from driving if he is caught
-[x] Driving with a blood alcohol concentration over 80 mg of alcohol/100m! of blood.
+[x] Driving with a blood alcohol concentration over 80 mg of alcohol/100ml of blood.
 [ ] Failing to obey a 'Stop' traffic sign.
 [ ] Failing to give way to an ambulance with its siren on.
 
@@ -94,7 +94,7 @@ FTT_E_P3_Q16: After your vehicle passed through a flood, you should
 [x] Apply intermittent braking to dry the brake drums at low speed.
 
 
-FTT_E_P3_Q17: As you approach a bend, an automatic car will sometimes ‘change up’ because there is less pressure on the accelerator. To prevent this happening, you should
+FTT_E_P3_Q17: As you approach a bend, an automatic car will sometimes 'change up' because there is less pressure on the accelerator. To prevent this happening, you should
 [x] Slow down before the bend and accelerate gently as you turn.
 [ ] Brake as you go round the bend.
 [ ] Brake and accelerate at the same time.
@@ -144,8 +144,8 @@ FTT_E_P3_Q24: After going round a gradual bend, you should increase your acceler
 
 FTT_E_P3_Q25: In order to have a better view while entering a sharp right hand bend as shown in the scenario, you should position your car
 [x] Close to the left of the road.
-[ ] dn the middle of your lane.
-[ ] Close to the centre line
+[ ] In the middle of your lane.
+[ ] Close to the centre line.
 
 
 FTT_E_P3_Q26: After parking your car on the downward slope, you should
@@ -169,7 +169,7 @@ FTT_E_P3_Q28: As you steer (reverse) your vehicle into the parking space, the fr
 FTT_E_P3_Q29: When you are reversing into the parking lot, the front part of your car swings out, you should
 [x] Look out for other traffic including cyclists and pedestrians.
 [ ] Look behind only.
-[ ] Look at the side mirrors,
+[ ] Look at the side mirrors.
 
 
 FTT_E_P3_Q30: Driving with under-inflated tyres can affect
@@ -192,7 +192,7 @@ FTT_E_P3_Q32: To reduce centrifugal force while going round a sharp bend, you sh
 
 FTT_E_P3_Q33: Using intermittent (on/off) braking to stop a car will
 [x] Give repeated signals to vehicles behind.
-[ ] Confuse other drivers,
+[ ] Confuse other drivers.
 [ ] Reduce the braking effect.
 
 
@@ -259,7 +259,7 @@ FTT_E_P3_Q43: In an accident where there is no injury, you should
 FTT_E_P3_Q44: To prevent skidding when stopping on a slippery road, you should
 [ ] Press hard on the foot-brake.
 [ ] Apply the foot-brake and the handbrake together.
-[x] ‘Step on your foot-brake in an on/off manner.
+[x] Step on your foot-brake in an on/off manner.
 
 
 FTT_E_P3_Q45: When driving through puddles of water on the road, you should
@@ -277,10 +277,10 @@ FTT_E_P3_Q46: The road shoulder of the expressway is meant for
 FTT_E_P3_Q47: At road junctions which of the following are most vulnerable?
 [x] Cyclist, pedestrians and motorcyclists.
 [ ] Car drivers.
-[ ] Lorry driviers.
+[ ] Lorry drivers.
 
 
-FTT_E_P3_Q48: lf a cyclist is travelling in an unsteady manner ahead, you should
+FTT_E_P3_Q48: If a cyclist is travelling in an unsteady manner ahead, you should
 [ ] Refrain from overtaking the cyclist.
 [x] Give yourself more time in overtaking the cyclist.
 [ ] Overtake the cyclist quickly and quietly.

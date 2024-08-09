@@ -19,7 +19,7 @@ FTT_E_P4_Q03: How does a school warden signals you to stop?
 FTT_E_P4_Q04: If you cannot steer straight because the road surface is not even, you should
 [ ] Loosen your grip on the steering wheel.
 [ ] Increase speed.
-[x] Rduce speed.
+[x] Reduce speed.
 
 
 FTT_E_P4_Q05: The main cause of brake fade is
@@ -43,13 +43,13 @@ FTT_E_P4_Q07: In a car equipped with rear seat belt, a child under 8 years old i
 FTT_E_P4_Q08: Car A intends to pass a lorry B. Car A should
 [x] Pass the lorry B after the junction.
 [ ] Speed up to pass lorry B on the left.
-[ ] Pass the lorry B on the right
+[ ] Pass the lorry B on the right.
 
 
 FTT_E_P4_Q09: Car A is about to make a U-turn, Car A should
 [x] Give to car B.
 [ ] Not give way to car B.
-[ ] Turn alono with carB
+[ ] Turn along with car B.
 
 
 FTT_E_P4_Q10: After consuming alcohol, you should
@@ -121,7 +121,7 @@ FTT_E_P4_Q20: The effectiveness of engine brake with a 3rd gear is
 FTT_E_P4_Q21: Braking is more effective when you depress the brake pedal
 [x] With the gear engaged.
 [ ] With the clutch depressed.
-[ ] With the gear lever in ‘Neutral’.
+[ ] With the gear lever in 'Neutral'.
 
 
 FTT_E_P4_Q22: A lower gear has
@@ -130,7 +130,7 @@ FTT_E_P4_Q22: A lower gear has
 [ ] Less power and less speed than a higher gear.
 
 
-FTT_E_P4_Q23: After engaging the first gear and the clutch pedal is released to the ‘biting point’, there is
+FTT_E_P4_Q23: After engaging the first gear and the clutch pedal is released to the 'biting point', there is
 [x] A slight drop in the engine revolution.
 [ ] A slight increase in the engine revolution.
 [ ] No change in the engine revolution.
@@ -240,7 +240,7 @@ FTT_E_P4_Q40: Before overtaking a large vehicle you should keep a longer distanc
 
 FTT_E_P4_Q41: In slow moving traffic, you should always
 [ ] Sound the horn so that vehicles in front will move faster.
-[x] ‘Stay in your lane.
+[x] Stay in your lane.
 [ ] Move quickly to another lane with a shorter queue.
 
 

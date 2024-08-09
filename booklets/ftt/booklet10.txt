@@ -35,7 +35,7 @@ FTT_E_P10_Q06: Your vehicle pulls to one side when braking, you should
 
 
 FTT_E_P10_Q07: You can drive on the bus lane
-[ ] When ail other lanes are occupied.
+[ ] When all other lanes are occupied.
 [x] Outside the restricted hours.
 [ ] When passing another vehicle on the left.
 
@@ -43,7 +43,7 @@ FTT_E_P10_Q07: You can drive on the bus lane
 FTT_E_P10_Q08: Which road user has caused a hazard?
 [x] The parked car (A)
 [ ] The pedestrian walking along the road (B)
-[ ] The movino car(C)
+[ ] The moving car (C)
 
 
 FTT_E_P10_Q09: Which of these can affect your reaction time?
@@ -52,13 +52,13 @@ FTT_E_P10_Q09: Which of these can affect your reaction time?
 [ ] Tinted windows.
 
 
-FTT_E_P10_Q10: The 'Two second rule’ is used in normal driving situation at
+FTT_E_P10_Q10: The 'Two second rule' is used in normal driving situation at
 [ ] Certain speed only.
 [x] All speed.
 [ ] Fixed speed only.
 
 
-FTT_E_P10_Q11: A new driver caught not displaying the ‘Probation Plate’ twice would
+FTT_E_P10_Q11: A new driver caught not displaying the 'Probation Plate' twice would
 [ ] Have to pay fine.
 [x] Have his licence be revoked.
 [ ] Be suspended for 6 months.
@@ -106,7 +106,7 @@ FTT_E_P10_Q18: Your vehicle has a puncture on the expressway. What should you do
 [ ] Stop in your lane and switch on the hazard lights.
 
 
-FTT_E_P10_Q19: You are driving on a three-lane carriageway at 80 km/h . There is no traffic ahead. Which lane should you use?
+FTT_E_P10_Q19: You are driving on a three-lane carriageway at 80 km/h. There is no traffic ahead. Which lane should you use?
 [ ] Any lane.
 [ ] Middle lane.
 [x] Left lane.
@@ -118,7 +118,7 @@ FTT_E_P10_Q20: You need more braking effort when stopping your vehicle in
 [x] 4th gear.
 
 
-FTT_E_P10_Q21: You should use ‘engine brake’ to assist you when
+FTT_E_P10_Q21: You should use 'engine brake' to assist you when
 [ ] Travelling long distances.
 [x] Travelling down a steep slope.
 [ ] You want to save fuel.
@@ -244,7 +244,7 @@ FTT_E_P10_Q41: You are permitted to use the outer most right lane on a three-lan
 [ ] Emergency vehicles are not using it.
 
 
-FTT_E_P10_Q42: When the temperature gauge on your vehicle indicates ‘hot'. What is the cause?
+FTT_E_P10_Q42: When the temperature gauge on your vehicle indicates 'hot'. What is the cause?
 [ ] The exhaust pipe is getting too hot.
 [x] The engine is heating up.
 [ ] The air conditioning is not working properly.

@@ -43,13 +43,13 @@ FTT_E_P5_Q07: Hand Signals given by Police officers directing the flow of traffi
 FTT_E_P5_Q08: Car A is slowing down or stopping. What should Car B do?
 [ ] Sound the horn to alert pedestrians who may be crossing the road.
 [x] Reduce speed and be ready to stop if necessary.
-[ ] Accelerate to pass fhe nedestrian crossing quickly
+[ ] Accelerate to pass the pedestrian crossing quickly.
 
 
 FTT_E_P5_Q09: In this scenario the car that is going straight should
 [ ] Overtake by the left quickly before the junction.
 [x] Slow down and let the lorry turn.
-[ ] Speed up and overtake
+[ ] Speed up and overtake.
 
 
 FTT_E_P5_Q10: Drink driving may cause
@@ -58,19 +58,19 @@ FTT_E_P5_Q10: Drink driving may cause
 [ ] Increase alertness.
 
 
-FTT_E_P5_Q11: To check ‘blind spot' when driving, you must
+FTT_E_P5_Q11: To check 'blind spot' when driving, you must
 [x] Turn your head and look over your shoulder.
 [ ] Turn your head and look into the wing mirrors.
 [ ] Turn your head and look into the rear-view mirror.
 
 
-FTT_E_P5_Q12: The 'Two-Second Rule’ of safe following distance applies to all vehicles travelling at
+FTT_E_P5_Q12: The 'Two-Second Rule' of safe following distance applies to all vehicles travelling at
 [ ] Slow speed only.
 [ ] Fast speed only.
 [x] Any speed.
 
 
-FTT_E_P5_Q13: The period of ‘probation’ for a newly qualified driver is
+FTT_E_P5_Q13: The period of 'probation' for a newly qualified driver is
 [x] 1 years.
 [ ] 2 years.
 [ ] 3 years.
@@ -228,7 +228,7 @@ FTT_E_P5_Q38: The light turns red as you approach a traffic junction, when stopp
 
 FTT_E_P5_Q39: While turning left into a side road, you noticed pedestrians have started to cross the road, you should
 [x] Give way to them.
-[ ] Rewing your engine to hurry them.
+[ ] Revving your engine to hurry them.
 [ ] Continue, as you have the right of way.
 
 

@@ -64,7 +64,7 @@ FTT_E_P7_Q11: Before changing lanes, you should check your blind spots by
 [ ] Looking at the side mirrors.
 
 
-FTT_E_P7_Q12: The 'two-second rule’ is used in normal driving situation at
+FTT_E_P7_Q12: The 'two-second rule' is used in normal driving situation at
 [ ] Certain speed only.
 [x] All speed.
 [ ] Fixed speed only.
@@ -112,7 +112,7 @@ FTT_E_P7_Q19: When joining the expressway, you should
 [ ] Stop at the end of the acceleration lane.
 
 
-FTT_E_P7_Q20: Under what circumstances you may not follow the ‘keep left rule’?
+FTT_E_P7_Q20: Under what circumstances you may not follow the 'keep left rule'?
 [ ] When travelling at the maximum speed limit of the road.
 [ ] When traffic is light.
 [x] When your path is obstructed.
@@ -274,7 +274,7 @@ FTT_E_P7_Q46: When you have caused inconvenience to others, you should
 [ ] Speed off quickly.
 
 
-FTT_E_P7_Q47: f your vehicle broke down on the expressway, you should
+FTT_E_P7_Q47: If your vehicle broke down on the expressway, you should
 [ ] Fix it on the spot.
 [ ] Move it to the extreme right lane.
 [x] Move it to the road shoulder.

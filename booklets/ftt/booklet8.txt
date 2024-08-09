@@ -43,7 +43,7 @@ FTT_E_P8_Q07: When approaching this junction, you should
 FTT_E_P8_Q08: When you approach this junction, you should
 [ ] Turn right.
 [x] Stop, check and turn left only.
-[ ] Need not ston if no oncomina traffic.
+[ ] Need not stop if no oncoming traffic.
 
 
 FTT_E_P8_Q09: Drink driving can contribute to accidents because
@@ -58,7 +58,7 @@ FTT_E_P8_Q10: Which of the following sentences is TRUE?
 [x] Alcohol slows down your reactions when driving.
 
 
-FTT_E_P8_Q11: ‘Blind spots’ of a vehicle is an area which cannot be viewed by
+FTT_E_P8_Q11: 'Blind spots' of a vehicle is an area which cannot be viewed by
 [ ] The rear view mirror.
 [ ] Left and right wings mirrors.
 [x] Both A and B.
@@ -70,7 +70,7 @@ FTT_E_P8_Q12: In order to avoid an accident with the vehicle in front while driv
 [ ] Two metres rule.
 
 
-FTT_E_P8_Q13: lf you have 13 or more demerit points within a year of passing the test you will
+FTT_E_P8_Q13: If you have 13 or more demerit points within a year of passing the test you will
 [ ] Be suspended for 6 months.
 [ ] Be suspended for 1 year.
 [x] Have your licence revoked.
@@ -220,7 +220,7 @@ FTT_E_P8_Q37: When you see children standing by the side of the road, you should
 [ ] Speed pass them.
 
 
-FTT_E_P8_Q38: When the traffic light signal turns ‘green’, you should check
+FTT_E_P8_Q38: When the traffic light signal turns 'green', you should check
 [ ] For oncoming traffic before moving off.
 [x] For oncoming traffic and traffic from the right and left before moving off.
 [ ] The rear view mirror before moving off.
@@ -271,11 +271,11 @@ FTT_E_P8_Q45: What can cause your tyres to skid and lose their grip on the road 
 FTT_E_P8_Q46: You are following learners who stalls at a junction. You should
 [ ] Stay very close behind and flash your headlights.
 [x] Be patient as you expect them to make mistakes.
-[ ] immediately overtake them.
+[ ] Immediately overtake them.
 
 
 FTT_E_P8_Q47: On the expressway, you may ONLY stop on the road shoulder
-[ ] if you feel tired and need to rest.
+[ ] If you feel tired and need to rest.
 [ ] To pick up passengers.
 [x] In an emergency.
 

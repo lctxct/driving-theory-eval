@@ -40,16 +40,16 @@ FTT_E_P6_Q07: On weekdays, you are not allowed to use the bus lane in the evenin
 [ ] 4.30 pm to 7.30 pm.
 
 
-FTT_E_P6_Q08: What is the main hazard shown in this scenario? (answer guessed....//TODO CHECK ANS KEY)
-[x] Cars turning right (A).
+FTT_E_P6_Q08: What is the main hazard shown in this scenario?
+[ ] Cars turning right (A).
 [ ] Parked vehicle at the junction (B).
-[ ] The cyclist crossing the road (C).
+[x] The cyclist crossing the road (C).
 
 
 FTT_E_P6_Q09: When Car A is making a left turn, car B's left turn signal is on. What should car A do
 [ ] Move out slowly and turn.
 [ ] Turn immediately.
-[x] Wait until Car B has turned left
+[x] Wait until Car B has turned left.
 
 
 FTT_E_P6_Q10: Generally a small amount of alcohol can make you less safe on the road.
@@ -76,7 +76,7 @@ FTT_E_P6_Q13: On a one way street, you hear the siren of an emergency vehicle be
 [ ] Stop immediately.
 
 
-FTT_E_P6_Q14: The term ‘Tailgating’ means
+FTT_E_P6_Q14: The term 'Tailgating' means
 [ ] Reversing into a vertical parking lot.
 [x] The dangerous practice of following another vehicle too closely.
 [ ] Parking at the tail end of the gate or entrance.
@@ -198,7 +198,7 @@ FTT_E_P6_Q33: A vehicle loaded with goods
 
 FTT_E_P6_Q34: When making an emergency stop, you should
 [x] Keep both hands firmly on the steering wheel.
-[ ] keep both hands lightly on the steering wheel.
+[ ] Keep both hands lightly on the steering wheel.
 [ ] Hold the steering wheel with one hand and pull the handbrake with the other hand.
 
 

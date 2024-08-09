@@ -40,16 +40,16 @@ FTT_E_P2_Q07: When your car breaks down on an expressway, a red triangle breakdo
 [x] At least 20 metres behind your car.
 
 
-FTT_E_P2_Q08: In the situation as shown, the motor car should ee
+FTT_E_P2_Q08: In the situation as shown, the motor car should
 [x] Slow down and turn after the motorcyclist.
 [ ] Speed up and turn before the motorcyclist reaches the junction.
-[ ] Turn side by side with the moftorcrvclist
+[ ] Turn side by side with the motorcyclist.
 
 
 FTT_E_P2_Q09: In a traffic hold-up situation as shown, vehicle 'X' should
 [x] Leave some space for vehicle Y to move out.
 [ ] Move to the position 'Z'.
-[ ] Turn left instead
+[ ] Turn left instead.
 
 
 FTT_E_P2_Q10: Which of the following statements on alcohol and driving is true?
@@ -106,7 +106,7 @@ FTT_E_P2_Q18: A basic rule when driving on an expressway is
 [ ] Always use the road shoulder.
 
 
-FTT_E_P2_Q19: lf you missed the exit on an expressway, you should
+FTT_E_P2_Q19: If you missed the exit on an expressway, you should
 [ ] Stop and wait for a chance to reverse back to the exit
 [x] Carry on driving to the next exit
 [ ] Reverse as quickly as possible so as not to create confusion
@@ -137,7 +137,7 @@ FTT_E_P2_Q23: When the clutch is fully depressed, it means that the power from t
 
 
 FTT_E_P2_Q24: To go round a mild bend with a steady speed, you should
-[ ] Use the ‘half-clutch' technique.
+[ ] Use the 'half-clutch' technique.
 [ ] Apply brakes.
 [x] Depress the accelerator slightly.
 
@@ -172,7 +172,7 @@ FTT_E_P2_Q29: You want to reverse into a side road. You are not sure that the ar
 [x] Get out and check.
 
 
-FTT_E_P2_Q30: /f your left front tyre blows out, you should react by
+FTT_E_P2_Q30: If your left front tyre blows out, you should react by
 [ ] Steering to the left.
 [ ] Steering to the right.
 [x] Holding the steering wheel firmly.
@@ -190,14 +190,14 @@ FTT_E_P2_Q32: When going round a bend, centrifugal force will cause your car to
 [ ] Swerve inwards.
 
 
-FTT_E_P2_Q33: 'The distance travelled’ from the moment 'the hazard’ is seen to the time ‘the brake’ is applied is known as the
+FTT_E_P2_Q33: 'The distance travelled' from the moment 'the hazard' is seen to the time 'the brake' is applied is known as the
 [ ] Stopping distance.
 [ ] Braking distance.
 [x] Reaction distance.
 
 
 FTT_E_P2_Q34: Free Wheeling
-[x] 1s dangerous when stopping at high speed.
+[x] Is dangerous when stopping at high speed.
 [ ] Will make it easier to round a sharp bend.
 [ ] Will make steering control easy.
 
@@ -265,7 +265,7 @@ FTT_E_P2_Q44: If your car skids while braking, you should
 FTT_E_P2_Q45: In the vicinity of a hospital, you should sound the horn
 [x] Only to warn other road users the danger of an accident.
 [ ] To let others know that you have the right of way.
-[ ] if another vehicle moved into your lane without signalling.
+[ ] If another vehicle moved into your lane without signalling.
 
 
 FTT_E_P2_Q46: When your car breaks down on an expressway, you should

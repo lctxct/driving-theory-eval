@@ -40,13 +40,13 @@ FTT_E_P1_Q07: The handbrake of a car acts
 [ ] On both the front and rear wheels.
 
 
-FTT_E_P1_Q08: When passing the stationary bus at the bus-stop, you should si //TODO:
-[x] Sound the horn to warn the bus driver of your presence.
+FTT_E_P1_Q08: When passing the stationary bus at the bus-stop, you should
+[ ] Sound the horn to warn the bus driver of your presence.
 [ ] Speed up to overtake the bus before it moves off.
-[ ] Slow down and be ready to stop for pedestrian who may cross the road in front of the
+[x] Slow down and be ready to stop for pedestrian who may cross the road in front of the bus.
 
 
-FTT_E_P1_Q09: Both the van and the car are entering a carpark, the car should not overtake the van
+FTT_E_P1_Q09: Both the van and the car are entering a car park, the car should not overtake the van
 [ ] Because of the centre white line.
 [ ] Because of the double yellow line.
 [x] Because it is not safe to do so.
@@ -58,7 +58,7 @@ FTT_E_P1_Q10: How does alcohol affect you?
 [ ] It improves your co-ordination.
 
 
-FTT_E_P1_Q11: The 'Two-second Rule’ is a sufficient distance between your vehicle and the car in front when road condition is
+FTT_E_P1_Q11: The 'Two-second Rule' is a sufficient distance between your vehicle and the car in front when road condition is
 [ ] Wet.
 [x] Good.
 [ ] Hazy.
@@ -95,7 +95,7 @@ FTT_E_P1_Q16: After driving through flood the brakes may malfunction. In order t
 
 
 FTT_E_P1_Q17: An automatic car has foot pedal/s
-[ ] ??? (check question bank)
+[ ] One.
 [x] Two.
 [ ] Three.
 
@@ -103,7 +103,7 @@ FTT_E_P1_Q17: An automatic car has foot pedal/s
 FTT_E_P1_Q18: When entering the expressway, vehicles on the left lane
 [x] Should adjust their speed in order to merge in smoothly.
 [ ] Must not slow down or stop.
-[ ] Must stop at the dotted line
+[ ] Must stop at the dotted line.
 
 
 FTT_E_P1_Q19: The right-most outer lane of the expressway is meant for
@@ -172,7 +172,7 @@ FTT_E_P1_Q29: Reversing from a side road into a main road is
 [ ] Allowed during the daytime only.
 
 
-FTT_E_P1_Q30: Driving with a ‘bald’ tyre is dangerous because
+FTT_E_P1_Q30: Driving with a 'bald' tyre is dangerous because
 [ ] It skids more easily.
 [ ] There is greater probability of punctures.
 [x] Both A and B.
@@ -190,14 +190,14 @@ FTT_E_P1_Q32: When negotiating a sharp bend, centrifugal force pushes your vehic
 [ ] Forward.
 
 
-FTT_E_P1_Q33: Reaction distance is the distance travelled from the moment, the
+FTT_E_P1_Q33: Reaction distance is the distance travelled from the moment the
 [ ] Brake is applied to the time the vehicle comes to a stop.
 [ ] Hazard is seen to the time the vehicle comes to a stop.
 [x] Hazard is seen to the time the brake is applied.
 
 
 FTT_E_P1_Q34: Why is free wheeling wrong?
-[ ] it will cause the vehicle to skid.
+[ ] It will cause the vehicle to skid.
 [x] There is no engine braking.
 [ ] The engine will run faster.
 
@@ -229,7 +229,7 @@ FTT_E_P1_Q38: When approaching a green traffic light signal at a junction, you m
 FTT_E_P1_Q39: In this situation, the 'red' car should pay special attention to
 [x] The school children.
 [ ] The turning vehicle.
-[ ] The fraffic light
+[ ] The traffic light.
 
 
 FTT_E_P1_Q40: When following behind a large vehicle, you should
@@ -274,13 +274,13 @@ FTT_E_P1_Q46: Is it an offence to drive on the road shoulder of the expressway?
 [ ] It is not an offence if the road is congested.
 
 
-FTT_E_P1_Q47: When passing a cyclist, what is the minimum side clearance you must
-[ ] ensure between the cyclist and your car?
-[x] 0.
-[ ] answer
+FTT_E_P1_Q47: When passing a cyclist, what is the minimum side clearance you must ensure between the cyclist and your car?
+[ ] 0.5m
+[ ] 1m
+[x] 1.5m
 
 
-FTT_E_P1_Q48: When a cyclist in front of you is glancing to the rear, it means that FR:
+FTT_E_P1_Q48: When a cyclist in front of you is glancing to the rear, it means that
 [x] He might change direction.
 [ ] He is going to stop.
 [ ] He is about to speed up.
